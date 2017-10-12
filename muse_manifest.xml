@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507834583606">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507836833221">
   <folder name="css">
     <file name="site_global.css" crc="3860740251"/>
-    <file name="master_a-master.css" crc="4244056616" ref="index"/>
-    <file name="index.css" crc="276841980" ref="index"/>
+    <file name="master_a-master.css" crc="4066379754" ref="index"/>
+    <file name="index.css" crc="4110892844" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -15,13 +15,8 @@
     <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:index"/>
     <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:index"/>
     <file name="touchswipe.js" crc="432264157" ref="phone>index:index"/>
-    <file name="form_check.php" crc="4110044762" ref="phone>index"/>
-    <file name="form_throttle.php" crc="22190333" ref="phone>index"/>
-    <file name="form_process.php" crc="257545537" ref="phone>index"/>
-    <file name="form-u3060.php" crc="138252215" ref="phone>index"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>index:index"/>
     <file name="require.js" crc="3861931657" ref="phone>index:index"/>
-    <file name="form-u518.php" crc="365802253" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3923032117" ref="phone>index"/>
@@ -102,6 +97,7 @@
     <file name="corner-u3006.png" crc="222288269" ref="phone>index"/>
     <file name="pasted image 250x250-u3003-fr.jpg" crc="331961783" ref="phone>index:index"/>
     <file name="pasted image 250x250-u3003-fr_2x.jpg" crc="4243821364" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
     <file name="yelpsmash-buttonu3102-fr.png" crc="4275637655" ref="phone>index:index"/>
     <file name="yelpsmash-buttonu3102-fr_2x.png" crc="4166443059" ref="phone>index:index"/>
     <file name="social-inside-facebook-icon.png" crc="234225298" ref="phone>index:index">
@@ -131,10 +127,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="clearevodetail.png" crc="3881932521" seo="true" ref="phone>index">
+    <file name="clearevodetail133x52.png" crc="4209632651" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="clearevodetail_2x.png" crc="4169939392" seo="true" ref="phone>index">
+    <file name="clearevodetail133x52_2x.png" crc="121691084" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bar.png" crc="3815970905" ref="phone>index:index">
@@ -178,19 +174,19 @@
     <file name="corner-u2270.png" crc="222288269" ref="index"/>
     <file name="cbstadium-u1815.png" crc="4148971806" ref="index"/>
     <file name="cbstadium-u1815_2x.png" crc="3793405604" ref="index"/>
-    <file name="evodetail.jpg" crc="131656064" seo="true" ref="index">
+    <file name="clearevodetail.png" crc="137603000" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="evodetail_2x.jpg" crc="4215392148" seo="true" ref="index">
+    <file name="clearevodetail_2x.png" crc="4066939036" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3891130237" ref="phone>index"/>
-      <file name="index.css" crc="4144250959" ref="phone>index"/>
+      <file name="master_a-master.css" crc="4247037679" ref="phone>index"/>
+      <file name="index.css" crc="186205940" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="140415723" seo="true" mt="1507834526547" redirect="true"/>
+    <file name="index.html" crc="4079057289" seo="true" mt="1507836760470" redirect="true"/>
   </folder>
-  <file name="index.html" crc="67024572" seo="true" mt="1507834494151" redirect="true"/>
+  <file name="index.html" crc="339604813" seo="true" mt="1507836746887" redirect="true"/>
 </manifest>
