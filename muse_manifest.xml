@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507843958257">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507844673067">
   <folder name="css">
     <file name="site_global.css" crc="3860740251"/>
     <file name="master_a-master.css" crc="292680170" ref="index"/>
-    <file name="index.css" crc="454147536" ref="index"/>
+    <file name="index.css" crc="63330258" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -178,9 +178,9 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="4086122588" ref="phone>index"/>
-      <file name="index.css" crc="4052392104" ref="phone>index"/>
+      <file name="index.css" crc="83258687" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4219776438" seo="true" mt="1507843823348" redirect="true"/>
+    <file name="index.html" crc="341151332" seo="true" mt="1507844477293" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4076776410" seo="true" mt="1507843849626" redirect="true"/>
+  <file name="index.html" crc="137383206" seo="true" mt="1507844617399" redirect="true"/>
 </manifest>
