@@ -23,8 +23,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Evolution Auto Detail | #1 Auto Detailing in Arlington, Texas</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3860740251"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=233024409"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3860322277" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4012149498"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4178639869" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -33,8 +33,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-  <script src="https://webfonts.creativecloud.com/source-sans-pro:n4:all;maven-pro:n7:all.js" type="text/javascript"></script>
-  <script src="https://use.typekit.net/ik/7L6JfZt79TQ-Y38NY3r_MLaCjmIpTk0JtgqjqViJEYJfelJgfHYkR3bPH26hF26o5QFLwRmKFRBRjh4KjD9XZ2MujDMDFebowhjk52SXFcbujQS-QPG0ZWZzdYmX-AN0jWmXdhs8ieBTdfoRdhXCZWZzdYmX-AN0jWmXdhs8ieBTdfoRdhXCiaiaOcmhdhUuie8zdcBuieNqZWsy-A30jhNlJ6lXZAoKpPu8-AiGifJJda4K-WskdhtK2Ao8iW4zSeNCOAozicI7fbRMgUMMeMS6MPG4f5M7IMIjgkMgH6qJ63JbMy6IJMBHgIuuShAbMd5cxvtB.js" type="text/javascript"></script>
+  <script src="https://webfonts.creativecloud.com/maven-pro:n7:all.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/ODiL6cY9ALbWOHBwDui4paST5lDqkB6fJY7Ynak9J-XfelJgfHYkR3bPH26hF26o5QFLwDjUFRquZQB8jQ9awhjawhbowQ885Am8Z2jXjAJtFhw-QPG0ZWZzdYmX-AN0jWmXdhs8ieBTdfoRdhXCZWZzdYmX-AN0jWmXdhs8ieBTdfoRdhXCiaiaOcmhdhUuie8zdcBuieNqZWsy-A30jhNlJ6lXZAoKpPu8-AiGifJJda4K-WskdhtK2Ao8iW4zSeNCOAozicI7fbRMgUMMeMS6MPG4f5M7IMIjgkMgH6qJ63JbMy6IJMBHgIuuShAbMdHlxvtB.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -45,45 +45,207 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 .MenuItem * {-webkit-transition: all 0.5s;transition: all 0.5s;{param_textVar};}.MenuItem  {-webkit-transition: all 0.5s;transition: all 0.5s;}
 </style> 
 
-    <style type="text/css">
-    #u4636 { font-size: 1px; line-height: 0px;}
-    .example-desc {margin:3px 0;padding:5px;}
-    #carousel {width:100%;height:658px;position:relative;clear:both;overflow:hidden;background: transparent;}
-    #carousel img {visibility:hidden;cursor:pointer;}
-    .split-left {width:450px;float:left;}
-    .split-right {width:400px;float:left;margin-left:10px;}
-    #callback-output {height:250px;overflow:scroll;}
-    textarea#newoptions {width:430px;}
-    </style>
-
-    
-<style>
-#u4639 { font-size: 1px; line-height: 0px;}
-#item-1 {
-background-image:url(  );
+		<style>
+.u5301 {
+  margin: 0 auto;
+  opacity: 0.6;
+  position: relative;
+  transition: opacity 0.9s;
 }
-#item-2 {
-background-image:url(  );
+.u5301:hover {
+  opacity: 1;
 }
-#item-3 {
-background-image:url(  );
+.u5301:hover .u5301help-mouse-wheel:before,
+.u5301:hover .u5301help-mouse-wheel:after {
+  animation: indicator-up-down 1.5s infinite ease-in-out;
+  height: 8px;
+  opacity: 0;
 }
-#item-4 {
-background-image:url(  );
+.u5301:hover .u5301help-down {
+  animation: arrow-down 0.3s infinite alternate;
 }
-#item-5 {
-background-image:url(  );
+.u5301help-mouse-down {
+  border: 3px solid #A88822;
+  border-radius: 17px;
+  height: 50px;
+  position: relative;
+  background: #FFFFFF;
+  width: 30px;
+    margin: 0 auto;
 }
-#item-6 {
-background-image:url(  );
+.u5301help-mouse-wheel {
+  position: relative;
+  left: 50%;
+  transition: opacity 0.5s;
 }
-#item-7 {
-background-image:url( );
+.u5301help-mouse-wheel:before,
+.u5301help-mouse-wheel:after {
+  content: '';
+  background: #A88822;
+  border-radius: 50%;
+  margin-left: -2px;
+  height: 4px;
+  position: absolute;
+  top: 5px;
+  transition: top 0.5s, height 0.5s, opacity 0.5s;
+  width: 4px;
 }
-
+.u5301help-mouse-wheel:before {
+  animation: scroll 1.5s 0.75s infinite ease-in-out;
+}
+.u5301help-mouse-wheel:after {
+  animation: scroll 1.5s infinite ease-in-out;
+}
+.u5301help-down {
+  animation: arrow-down 0.6s infinite alternate ease-in-out;
+  border-bottom: 2px solid #A88822;
+  border-right: 2px solid #A88822;
+  display: block;
+  height: 5px;
+  margin: 0 auto;
+  transform: rotate(45deg);
+  transition: opacity 0.5s;
+  width: 5px;
+  opacity: 1;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+@-moz-keyframes scroll {
+  0% {
+    top: 5px;
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    top: 15px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes scroll {
+  0% {
+    top: 5px;
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    top: 15px;
+    opacity: 0;
+  }
+}
+@-o-keyframes scroll {
+  0% {
+    top: 5px;
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    top: 15px;
+    opacity: 0;
+  }
+}
+@keyframes scroll {
+  0% {
+    top: 5px;
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    top: 15px;
+    opacity: 0;
+  }
+}
+@-moz-keyframes indicator-up-down {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    top: 20px;
+  }
+}
+@-webkit-keyframes indicator-up-down {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    top: 20px;
+  }
+}
+@-o-keyframes indicator-up-down {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    top: 20px;
+  }
+}
+@keyframes indicator-up-down {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    top: 20px;
+  }
+}
+@-moz-keyframes arrow-down {
+  0% {
+    margin-top: 5px;
+  }
+  100% {
+    margin-top: 15px;
+  }
+}
+@-webkit-keyframes arrow-down {
+  0% {
+    margin-top: 5px;
+  }
+  100% {
+    margin-top: 15px;
+  }
+}
+@-o-keyframes arrow-down {
+  0% {
+    margin-top: 5px;
+  }
+  100% {
+    margin-top: 15px;
+  }
+}
+@keyframes arrow-down {
+  0% {
+    margin-top: 5px;
+  }
+  100% {
+    margin-top: 15px;
+  }
+}
+}
 </style>
 	
-    
 
 
 
@@ -99,67 +261,15 @@ background-image:url( );
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pppbuttonu1074"><!-- group -->
-    <div class="clearfix grpelem" id="ppbuttonu1074"><!-- column -->
-     <div class="clearfix colelem" id="pbuttonu1074"><!-- group -->
-      <div class="Button clearfix grpelem" id="buttonu1074"><!-- container box -->
-       <!-- m_editable region-id="editable-static-tag-U717-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-       <div class="clearfix grpelem" id="u717-4" data-muse-uid="U717" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-        <h2>Who is EVOLUTION AUTO DETAIL?</h2>
-       </div>
-       <!-- /m_editable -->
-      </div>
-      <div class="Button clearfix grpelem" id="pbuttonu703"><!-- group -->
-       <div class="clearfix grpelem" id="buttonu703"><!-- container box -->
-        <div class="grpelem" id="u709"><!-- simple frame --></div>
-        <div class="grpelem" id="u707"><!-- simple frame --></div>
-        <div class="grpelem" id="u705"><!-- simple frame --></div>
-        <div class="grpelem" id="u704"><!-- simple frame --></div>
-        <!-- m_editable region-id="editable-static-tag-U706-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
-        <a class="nonblock nontext clearfix grpelem" id="u706-4" href="http://www.musefree.com" data-muse-uid="U706" data-muse-type="txt_frame"><!-- content --><p>Welcome!</p></a>
-        <!-- /m_editable -->
-        <!-- m_editable region-id="editable-static-tag-U1004-BP_infinity" template="index.html" data-type="image" -->
-        <div class="clip_frame grpelem" id="u1004" data-muse-uid="U1004" data-muse-type="img_frame"><!-- image -->
-         <img class="block" id="u1004_img" src="images/pic2425x250.jpg?crc=106043287" data-hidpi-src="images/pic2_2x.jpg?crc=16289442" alt="" width="425" height="250" data-muse-src="images/pic2425x250.jpg?crc=106043287"/>
-        </div>
-        <!-- /m_editable -->
-        <!-- m_editable region-id="editable-static-tag-U2569-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="clearfix grpelem" id="u2569-4" data-muse-uid="U2569" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <p id="u2569-2">You have found the place for all your vehicle detailing needs. I’m a professional detailer that has been providing the highest quality detailing services to our customers in Arlington, Texas.</p>
-        </div>
-        <!-- /m_editable -->
-       </div>
-      </div>
-      <div class="Button clearfix grpelem" id="pbuttonu695"><!-- group -->
-       <div class="clearfix grpelem" id="buttonu695"><!-- container box -->
-        <div class="grpelem" id="u701"><!-- simple frame --></div>
-        <div class="grpelem" id="u699"><!-- simple frame --></div>
-        <div class="grpelem" id="u700"><!-- simple frame --></div>
-        <div class="grpelem" id="u696"><!-- simple frame --></div>
-        <!-- m_editable region-id="editable-static-tag-U698-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
-        <div class="clearfix grpelem" id="u698-4" data-muse-uid="U698" data-muse-type="txt_frame"><!-- content -->
-         <p>The start of it all.</p>
-        </div>
-        <!-- /m_editable -->
-        <!-- m_editable region-id="editable-static-tag-U702-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="clearfix grpelem" id="u702-4" data-muse-uid="U702" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <p id="u702-2">Our roots begin as a mobile detailing service, and as our auto detailing passion and knowledge grew, so did the recognition we received for our excellent services provided.</p>
-        </div>
-        <!-- /m_editable -->
-        <!-- m_editable region-id="editable-static-tag-U1014-BP_infinity" template="index.html" data-type="image" -->
-        <div class="clip_frame clearfix grpelem" id="u1014" data-muse-uid="U1014" data-muse-type="img_frame"><!-- image -->
-         <img class="position_content" id="u1014_img" src="images/pic1424x250.jpg?crc=3889478827" data-hidpi-src="images/pic1424x250_2x.jpg?crc=3992569407" alt="" width="424" height="249" data-muse-src="images/pic1424x250.jpg?crc=3889478827"/>
-        </div>
-        <!-- /m_editable -->
-       </div>
-      </div>
-      <a class="anchor_item grpelem" id="about"></a>
-      <div class="browser_width grpelem" id="u726-bw">
-       <div class="museBGSize" id="u726"><!-- group -->
-        <div class="clearfix" id="u726_align_to_page">
-         <div class="clearfix grpelem" id="pu4043"><!-- group -->
-          <div class="grpelem" id="u4043"><!-- custom html -->
-           <style type="text/css">
+   <div class="clearfix grpelem" id="pphome"><!-- group -->
+    <div class="clearfix grpelem" id="phome"><!-- column -->
+     <a class="anchor_item colelem" id="home"></a>
+     <div class="browser_width colelem" id="u726-bw">
+      <div class="museBGSize" id="u726"><!-- group -->
+       <div class="clearfix" id="u726_align_to_page">
+        <div class="clearfix grpelem" id="pu4043"><!-- group -->
+         <div class="grpelem" id="u4043"><!-- custom html -->
+          <style type="text/css">
  
 html,body{overflow-x:hidden;}       // use this to hide the horizontal scrollbar, to hide the vertical scrollbar {overflow-y:hidden} ; to hide all scrollbar {overflow:hidden;}
  
@@ -167,57 +277,80 @@ html,body{overflow-x:hidden;}       // use this to hide the horizontal scrollbar
      width: 1220px;
      margin: 0 auto;} 
 </style>
-          </div>
-          <div class="size_fixed grpelem" id="u5277"><!-- custom html -->
-           
+         </div>
+         <div class="size_fixed grpelem" id="u5277"><!-- custom html -->
+          
 
-          </div>
          </div>
         </div>
        </div>
       </div>
-      <div class="shadow grpelem" id="u728"><!-- simple frame --></div>
-      <div class="shadow grpelem" id="u729"><!-- simple frame --></div>
-      <a class="nonblock nontext anim_swing grpelem" id="u766" href="index.html#about" data-href="anchor:U69:U1790"><!-- rasterized frame --><!-- m_editable region-id="editable-static-tag-U766-BP_infinity" template="index.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" --><img id="u766_img" alt="" width="36" height="36" src="images/pasted%20image%2036x36-u766.png?crc=4233724105" data-muse-uid="U766"/><!-- /m_editable --></a>
-      <!-- m_editable region-id="editable-static-tag-U988-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-      <div class="clearfix grpelem" id="u988-4" data-muse-uid="U988" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-       <h1>Elite Auto Detailing in the Central Dallas - Fort Worth Metroplex.</h1>
+     </div>
+     <div class="shadow colelem" id="u728"><!-- simple frame --></div>
+     <!-- m_editable region-id="editable-static-tag-U988-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+     <div class="clearfix colelem" id="u988-4" data-muse-uid="U988" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+      <h1>Elite Auto Detailing in the Central Dallas - Fort Worth Metroplex.</h1>
+     </div>
+     <!-- /m_editable -->
+     <div class="shadow colelem" id="u729"><!-- simple frame --></div>
+     <div class="size_fixed colelem" id="u5301"><!-- custom html -->
+      
+<aside class="u5301" >
+  <div class="u5301help-mouse-down"><i class="u5301help-mouse-wheel"></i></div><span class="u5301help-down"></span>
+</aside>
+
+     </div>
+     <a class="anchor_item colelem" id="about"></a>
+     <div class="Button clearfix colelem" id="buttonu1074"><!-- container box -->
+      <!-- m_editable region-id="editable-static-tag-U717-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+      <div class="clearfix grpelem" id="u717-4" data-muse-uid="U717" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+       <h2>Who is EVOLUTION AUTO DETAIL?</h2>
       </div>
       <!-- /m_editable -->
-      <div class="PamphletWidget clearfix grpelem" id="pamphletu4655"><!-- none box -->
-       <div class="ThumbGroup clearfix grpelem" id="u4662"><!-- none box -->
-        <div class="popup_anchor" id="u4664popup">
-         <div class="Thumb popup_element museBGSize" id="u4664"><!-- simple frame --></div>
-        </div>
+     </div>
+     <div class="Button clearfix colelem" id="pbuttonu703"><!-- group -->
+      <div class="clearfix grpelem" id="buttonu703"><!-- container box -->
+       <div class="grpelem" id="u709"><!-- simple frame --></div>
+       <div class="grpelem" id="u707"><!-- simple frame --></div>
+       <div class="grpelem" id="u705"><!-- simple frame --></div>
+       <div class="grpelem" id="u704"><!-- simple frame --></div>
+       <!-- m_editable region-id="editable-static-tag-U706-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext clearfix grpelem" id="u706-4" href="http://www.musefree.com" data-muse-uid="U706" data-muse-type="txt_frame"><!-- content --><p>Welcome!</p></a>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U1004-BP_infinity" template="index.html" data-type="image" -->
+       <div class="clip_frame grpelem" id="u1004" data-muse-uid="U1004" data-muse-type="img_frame"><!-- image -->
+        <img class="block" id="u1004_img" src="images/pic2425x250.jpg?crc=106043287" data-hidpi-src="images/pic2_2x.jpg?crc=16289442" alt="" width="425" height="250" data-muse-src="images/pic2425x250.jpg?crc=106043287"/>
        </div>
-       <div class="popup_anchor" id="u4658popup">
-        <div class="ContainerGroup clearfix" id="u4658"><!-- stack box -->
-         <div class="Container rgba-background clearfix grpelem" id="u4659"><!-- group -->
-          <nav class="MenuBar clearfix grpelem" id="menuu4708"><!-- vertical box -->
-           <div class="MenuItemContainer clearfix colelem" id="u4709"><!-- horizontal box -->
-            <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u4710" href="index.html" data-href="page:U74"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4713-4"><!-- content --><p>HOME</p></div></a>
-           </div>
-           <div class="MenuItemContainer clearfix colelem" id="u4866"><!-- horizontal box -->
-            <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4867" href="index.html#about" data-href="anchor:U69:U1790"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4870-4"><!-- content --><p>ABOUT US</p></div></a>
-           </div>
-           <div class="MenuItemContainer clearfix colelem" id="u4838"><!-- horizontal box -->
-            <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4839" href="index.html#packages" data-href="anchor:U69:U1796"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4842-4"><!-- content --><p>PACKAGES</p></div></a>
-           </div>
-           <div class="MenuItemContainer clearfix colelem" id="u4810"><!-- horizontal box -->
-            <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4811" href="index.html#gallery" data-href="anchor:U69:U1799"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4814-4"><!-- content --><p>GALLERY</p></div></a>
-           </div>
-           <div class="MenuItemContainer clearfix colelem" id="u4782"><!-- horizontal box -->
-            <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4783" href="index.html#reviews" data-href="anchor:U69:U2522"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4786-4"><!-- content --><p>REVIEWS</p></div></a>
-           </div>
-           <div class="MenuItemContainer clearfix colelem" id="u4753"><!-- horizontal box -->
-            <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4754" href="index.html#contact" data-href="anchor:U69:U1802"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4757-4"><!-- content --><p>CONTACT US</p></div></a>
-           </div>
-          </nav>
-         </div>
-        </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U2569-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+       <div class="clearfix grpelem" id="u2569-4" data-muse-uid="U2569" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <p id="u2569-2">You have found the place for all your vehicle detailing needs. I’m a professional detailer that has been providing the highest quality detailing services to our customers in Arlington, Texas.</p>
        </div>
+       <!-- /m_editable -->
       </div>
-      <a class="anchor_item grpelem" id="home"></a>
+     </div>
+     <div class="Button clearfix colelem" id="pbuttonu695"><!-- group -->
+      <div class="clearfix grpelem" id="buttonu695"><!-- container box -->
+       <div class="grpelem" id="u701"><!-- simple frame --></div>
+       <div class="grpelem" id="u699"><!-- simple frame --></div>
+       <div class="grpelem" id="u700"><!-- simple frame --></div>
+       <div class="grpelem" id="u696"><!-- simple frame --></div>
+       <!-- m_editable region-id="editable-static-tag-U698-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link" -->
+       <div class="clearfix grpelem" id="u698-4" data-muse-uid="U698" data-muse-type="txt_frame"><!-- content -->
+        <p>The start of it all.</p>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U702-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+       <div class="clearfix grpelem" id="u702-4" data-muse-uid="U702" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <p id="u702-2">Our roots begin as a mobile detailing service, and as our auto detailing passion and knowledge grew, so did the recognition we received for our excellent services provided.</p>
+       </div>
+       <!-- /m_editable -->
+       <!-- m_editable region-id="editable-static-tag-U1014-BP_infinity" template="index.html" data-type="image" -->
+       <div class="clip_frame clearfix grpelem" id="u1014" data-muse-uid="U1014" data-muse-type="img_frame"><!-- image -->
+        <img class="position_content" id="u1014_img" src="images/pic1424x250.jpg?crc=3889478827" data-hidpi-src="images/pic1424x250_2x.jpg?crc=3992569407" alt="" width="424" height="249" data-muse-src="images/pic1424x250.jpg?crc=3889478827"/>
+       </div>
+       <!-- /m_editable -->
+      </div>
      </div>
      <div class="Button clearfix colelem" id="pbuttonu2572"><!-- group -->
       <div class="clearfix grpelem" id="buttonu2572"><!-- container box -->
@@ -351,45 +484,12 @@ html,body{overflow-x:hidden;}       // use this to hide the horizontal scrollbar
       <div class="museBGSize" id="u2763"><!-- simple frame --></div>
      </div>
      <a class="anchor_item colelem" id="gallery"></a>
-     <div class="Button clearfix colelem" id="buttonu1260"><!-- container box -->
+     <div class="Button rounded-corners clearfix colelem" id="buttonu1260"><!-- container box -->
       <!-- m_editable region-id="editable-static-tag-U1262-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
       <div class="clearfix grpelem" id="u1262-4" data-muse-uid="U1262" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
        <h4>GALLERY</h4>
       </div>
       <!-- /m_editable -->
-     </div>
-     <div class="Button clearfix colelem" id="buttonu4628"><!-- container box -->
-      <div class="clearfix grpelem" id="pu4636"><!-- group -->
-       <div class="size_fixed grpelem" id="u4636"><!-- custom html -->
-        
-    <div id="carousel">
-        <a href="#" id="img1"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="450" hright="315" style="background-repeat: no-repeat; background-size:cover; background-position: center;" id="item-1"/></a>
-            <a href="#" id="img2"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="450" hright="315" style="background-repeat: no-repeat; background-size:cover; background-position: center;" id="item-2"/></a>
-            <a href="#" id="img3"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="450" hright="315" style="background-repeat: no-repeat; background-size:cover; background-position: center;" id="item-3"/></a>
-            <a href="#" id="img4"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="450" hright="315" style="background-repeat: no-repeat; background-size:cover; background-position: center;" id="item-4"/></a>
-            <a href="#" id="img5"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="450" hright="315" style="background-repeat: no-repeat; background-size:cover; background-position: center;" id="item-5"/></a>
-            <a href="#" id="img6"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="450" hright="315" style="background-repeat: no-repeat; background-size:cover; background-position: center;" id="item-6"/></a>
-            <a href="#" id="img7"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="450" hright="315" style="background-repeat: no-repeat; background-size:cover; background-position: center;" id="item-7"/></a>
-    </div>
-  
-    
-       </div>
-       <!-- m_editable region-id="editable-static-tag-U4637-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-       <div class="carousel-previous clearfix grpelem" id="u4637-4" data-muse-uid="U4637" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-        <p id="u4637-2">PREVIOUS</p>
-       </div>
-       <!-- /m_editable -->
-       <!-- m_editable region-id="editable-static-tag-U4638-BP_infinity" template="index.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-       <div class="carousel-next clearfix grpelem" id="u4638-4" data-muse-uid="U4638" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-        <p id="u4638-2">NEXT</p>
-       </div>
-       <!-- /m_editable -->
-       <div class="size_fixed grpelem" id="u4639"><!-- custom html -->
-        
- 
-    
-       </div>
-      </div>
      </div>
      <a class="anchor_item colelem" id="reviews"></a>
      <div class="Button clearfix colelem" id="buttonu1969"><!-- container box -->
@@ -988,6 +1088,39 @@ body {
     <div class="clip_frame" id="u4011"><!-- image -->
      <img class="block" id="u4011_img" src="images/clearevodetail.png?crc=137603000" data-hidpi-src="images/clearevodetail_2x.png?crc=4066939036" alt="" width="160" height="63"/>
     </div>
+    <div class="PamphletWidget clearfix" id="pamphletu4655"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u4662"><!-- none box -->
+      <div class="popup_anchor" id="u4664popup">
+       <div class="Thumb popup_element museBGSize" id="u4664"><!-- simple frame --></div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u4658popup">
+      <div class="ContainerGroup clearfix" id="u4658"><!-- stack box -->
+       <div class="Container invi rgba-background clearfix grpelem" id="u4659"><!-- group -->
+        <nav class="MenuBar clearfix grpelem" id="menuu4708"><!-- vertical box -->
+         <div class="MenuItemContainer clearfix colelem" id="u4709"><!-- horizontal box -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u4710" href="index.html" data-href="page:U74"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4713-4"><!-- content --><p>HOME</p></div></a>
+         </div>
+         <div class="MenuItemContainer clearfix colelem" id="u4866"><!-- horizontal box -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4867" href="index.html#about" data-href="anchor:U69:U1790"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4870-4"><!-- content --><p>ABOUT US</p></div></a>
+         </div>
+         <div class="MenuItemContainer clearfix colelem" id="u4838"><!-- horizontal box -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4839" href="index.html#packages" data-href="anchor:U69:U1796"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4842-4"><!-- content --><p>PACKAGES</p></div></a>
+         </div>
+         <div class="MenuItemContainer clearfix colelem" id="u4810"><!-- horizontal box -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4811" href="index.html#gallery" data-href="anchor:U69:U1799"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4814-4"><!-- content --><p>GALLERY</p></div></a>
+         </div>
+         <div class="MenuItemContainer clearfix colelem" id="u4782"><!-- horizontal box -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4783" href="index.html#reviews" data-href="anchor:U69:U2522"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4786-4"><!-- content --><p>REVIEWS</p></div></a>
+         </div>
+         <div class="MenuItemContainer clearfix colelem" id="u4753"><!-- horizontal box -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u4754" href="index.html#contact" data-href="anchor:U69:U1802"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4757-4"><!-- content --><p>CONTACT US</p></div></a>
+         </div>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </div>
    </div>
    <div class="verticalspacer" data-offset-top="5578" data-content-above-spacer="5578" data-content-below-spacer="61"></div>
    <div class="browser_width grpelem" id="u4003-5-bw">
@@ -1015,7 +1148,7 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.musemenu","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.scrolleffects"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.musemenu","jquery.scrolleffects"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
@@ -1023,13 +1156,13 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#pamphletu4655', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'mouseout_click',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu4655 */
 Muse.Utils.initWidget('#pamphletu2013', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:6600,transitionStyle:'vertical',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3300,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu2013 */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#pamphletu4655', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'mouseout_click',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu4655 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u726').registerBackgroundPositionScrollEffect([{"speed":[0,0.6],"in":[-Infinity,33]},{"speed":[0,0.6],"in":[33,Infinity]}]);/* scroll effect */
-$('#u2752').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1874]},{"speed":[0,0],"in":[1874,Infinity]}]);/* scroll effect */
-$('#u2763').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3131.45]},{"speed":[0,0],"in":[3131.45,Infinity]}]);/* scroll effect */
+$('#u2752').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1874.1]},{"speed":[0,0],"in":[1874.1,Infinity]}]);/* scroll effect */
+$('#u2763').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3131.55]},{"speed":[0,0],"in":[3131.55,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
@@ -1040,78 +1173,10 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   
   <!--HTML Widget code-->
   
+
+	
 <script type="text/javascript">(function(e,t){function r(){var r=n.offsetHeight,i=e.innerHeight,s=Math.max(0,i-r);t.style.paddingTop=s/2+"px";t.style.paddingBottom="0px"}var n=$("#page")[0];$(e).resize(r);$(t).on("wp-page-height-change",r);r()})(window,document.body)</script>
 
- <script type="text/javascript">
- eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('(k(e){"2u 2v";e.1r.1f=k(t){k s(){i={O:e(n),L:e(n).C("G").14,1j:e(n).N(),1n:e(n).M(),x:1u,1k:1u,F:[],I:[],15:0,10:D,17:0,V:r.1o,2t:1u,11:"R",1m:0,1l:0,1x:A};i.O.C("G").1F(r.1d)}k o(e){2s(i.1D);4(!e&&r.K!==0){i.1D=2q(k(){4(r.K>0){b("R")}w{b("12")}},B.T(r.K))}}k u(t){4(r.21===D){t();E}5 n=i.O.C("G"),s=0,o=n.14;n.16(k(){e(j).1s("1E",k(){s+=1;4(s===o){t();E}});e(j).1z("1A",e(j).1z("1A"));4(j.2y){e(j).2B("1E")}})}k a(){i.O.C("G").16(k(){4(e(j).9("19")==1J||r.1g>0){e(j).9("19",e(j).N())}4(e(j).9("18")==1J||r.1i>0){e(j).9("18",e(j).M())}})}k f(){4(r.1g&&r.1i){i.O.C("G").16(k(){e(j).N(r.1g);e(j).M(r.1i)})}}k l(){5 e=i.O.C("G:1L");i.I[0]={1b:0,1c:0,q:1};5 t=r.1O;5 n=r.1S;13(5 s=1;s<=r.J+2;s++){4(s>1){t*=r.1P;n*=r.1R}i.I[s]={1b:i.I[s-1].1b+n,1c:i.I[s-1].1c+t,q:i.I[s-1].q*r.1Q}}4(r.23){i.I[r.J+1].q=0}w{i.I[r.J+1]={1b:0,1c:0,q:0}}}k c(){i.F=i.O.C("G");13(5 t=0;t<i.L;t++){i.F[t]=e(i.F[t])}4(r.P===0){4(r.H==="W"){r.P=i.1n/2}w{r.P=i.1j/2}}i.O.Z("1I","2z").C("G").16(k(){5 t,n;4(r.H==="W"){t=i.1j/2-e(j).9("19")/2;n=r.P-e(j).9("18")/2}w{t=r.P-e(j).9("19")/2;n=i.1n/2-e(j).9("18")/2}e(j).Z({X:t,U:n,2p:"2o",1I:"2f","z-1p":0,q:0}).9({U:n,X:t,1t:0,Y:0,1e:0,q:0}).2b()})}k h(){r.S=r.S===0?B.29(i.L/2):r.S;i.1l=B.2g((i.L-1)/2);i.1m=B.2l((i.L-1)/2);i.15=1;d(i.F[r.S-1],0);i.F[r.S-1].Z("q",1);5 e=r.S-1;13(5 t=1;t<=i.1l;t++){e<i.L-1?e+=1:e=0;i.F[e].Z("q",1);d(i.F[e],t)}5 e=r.S-1;13(5 t=-1;t>=i.1m*-1;t--){e>0?e-=1:e=i.L-1;i.F[e].Z("q",1);d(i.F[e],t)}}k p(e,t){5 n=B.T(t);4(n<r.J+1){5 s=i.I[n]}w{5 s=i.I[r.J+1]}5 o=B.2k(r.27,n);5 u=o*e.9("19");5 a=o*e.9("18");5 f=B.T(e.N()-u);5 l=B.T(e.M()-a);5 c=s.1c;5 h=s.1b;4(t<0){h*=-1}4(r.H=="W"){5 p=i.1j/2;5 d=p+h-u/2;5 v=r.P-c-a/2}w{5 p=i.1n/2;5 d=r.P-c-u/2;5 v=p+h-a/2}5 m;4(t===0){m=1}w{m=s.q}5 g=r.J+2-n;e.9("N",u);e.9("M",a);e.9("U",v);e.9("X",d);e.9("1t",e.9("Y"));e.9("1e",g);e.9("q",m)}k d(e,t){4(B.T(t)<=r.J+1){p(e,t);i.17++;e.Z("z-1p",e.9().1e).2m({X:e.9().X,N:e.9().N,M:e.9().M,U:e.9().U,q:e.9().q},i.V,r.1W,k(){v(e,t)})}w{e.9("Y",t);4(e.9("1t")===0){e.Z({X:e.9().X,N:e.9().N,M:e.9().M,U:e.9().U,q:e.9().q,"z-1p":e.9().1e})}}}k v(e,t){i.17--;e.9("Y",t);4(t===0){i.x=e}4(i.17===0){i.15-=1;i.10=D;4(i.15>0){m(0)}w{i.V=r.1o;i.x.2A(r.1d);4(i.1x===D){r.1Y(i.x);r.20(i.1k)}i.1x=D;o()}}}k m(t){4(i.10===D){i.x.1F(r.1d);i.10=A;i.17=0;i.15+=t;4(r.1X===A){4(t>1){i.V=r.1o/t}i.V=i.V<1y?1y:i.V}13(5 n=0;n<i.L;n++){5 s=e(i.F[n]);5 o=s.9("Y");5 u;4(i.11=="R"){u=o-1}w{u=o+1}5 a=u>0?i.1l:i.1m;4(B.T(u)>a){u=o*-1;4(i.L%2==0){u+=1}}d(s,u)}}}k g(){5 e=i.x.26();4(e.14<=0){e=i.x.1K().1H().1L()}E e}k y(){5 e=i.x.1T();4(e.14<=0){e=i.x.1K().1H().2n()}E e}k b(e){4(i.10===D){i.1k=i.x;r.1q(i.x);4(e=="12"){r.1h(y());i.11="12"}w 4(e=="R"){r.1h(g());i.11="R"}}m(1)}4(j.14>1){j.16(k(){e(j).1f(t)});E j}5 n=j;5 r={};5 i={};e(j).C("G").1s("1M",k(){5 t=e(j).9().Y;4(r.22==D){E}4(B.T(t)>=r.J+1){E}4(i.10){E}i.1k=i.x;o(A);r.K=0;5 n=B.T(t);4(t==0){r.1Z(e(j))}w{r.1q(i.x);r.1h(e(j));4(t<0){i.11="12";m(n)}w 4(t>0){i.11="R";m(n)}}});e(j).C("a").1s("1M",k(t){5 n=e(j).C("G").9("Y")==0;4(r.1v===1||r.1v===2&&!n){t.28();E D}});e(2D).2x(k(e){4(r.24){4(e.Q===1B&&r.H=="W"||e.Q===1G&&r.H=="1w"){o(A);r.K=0;b("12")}w 4(e.Q===1C&&r.H=="W"||e.Q===1N&&r.H=="1w"){o(A);r.K=0;b("R")}4(r.25&&(r.H=="W"&&(e.Q===1B||e.Q===1C)||r.H=="1w"&&(e.Q===1G||e.Q===1N))){e.28();E D}}});j.1U=k(t){4(2r t==="2e"){5 n=t}w{5 n={}}r=e.2w({},e.1r.1f.1V,t);s();i.O.C("G").2c();f();u(k(){a();l();c();h()})};j.26=k(){o(A);r.K=0;b("R")};j.1T=k(){o(A);r.K=0;b("12")};j.1U(t);E j};e.1r.1f.1V={S:1,1S:2C,1R:.6,1O:0,1P:1,27:.7,1Q:.8,P:0,J:3,1o:2a,1W:"2h",1X:A,23:D,1v:2,K:0,H:"W",1d:"2i-2j",24:D,25:A,22:A,21:A,1g:0,1i:0,1h:e.1a,1Y:e.1a,1Z:e.1a,1q:e.1a,20:e.1a}})(2d)',62,164,'||||if|var||||data||||||||||this|function||||||opacity||||||else|currentCenterItem|||true|Math|find|false|return|items|img|orientation|calculations|flankingItems|autoPlay|totalItems|height|width|itemsContainer|horizon|which|forward|startingItem|abs|top|currentSpeed|horizontal|left|currentPosition|css|currentlyMoving|currentDirection|backward|for|length|carouselRotationsLeft|each|itemsAnimating|original_height|original_width|noop|distance|offset|activeClassName|depth|waterwheelCarousel|forcedImageWidth|movingToCenter|forcedImageHeight|containerWidth|previousCenterItem|rightItemsCount|leftItemsCount|containerHeight|speed|index|movingFromCenter|fn|bind|oldPosition|null|linkHandling|vertical|performingSetup|100|attr|src|37|39|autoPlayTimer|load|removeClass|38|children|position|undefined|parent|first|click|40|horizonOffset|horizonOffsetMultiplier|opacityMultiplier|separationMultiplier|separation|prev|reload|defaults|animationEasing|quickerForFurther|movedToCenter|clickedCenter|movedFromCenter|preloadImages|imageNav|edgeFadeEnabled|keyboardNav|keyboardNavOverride|next|sizeMultiplier|preventDefault|round|300|show|hide|jQuery|object|absolute|ceil|linear|carousel|center|pow|floor|animate|last|visible|visibility|setTimeout|typeof|clearTimeout|intervalTimer|use|strict|extend|keydown|complete|relative|addClass|trigger|175|document'.split('|'),0,{}))
- </script>
-  <script type="text/javascript">
-  eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('d.g["J"]=d.g["C"];d.H(d.g,{D:"y",C:9(e,t,n,r,i){6 d.g[d.g.D](e,t,n,r,i)},U:9(e,t,n,r,i){6 r*(t/=i)*t+n},y:9(e,t,n,r,i){6-r*(t/=i)*(t-2)+n},17:9(e,t,n,r,i){a((t/=i/2)<1)6 r/2*t*t+n;6-r/2*(--t*(t-2)-1)+n},12:9(e,t,n,r,i){6 r*(t/=i)*t*t+n},W:9(e,t,n,r,i){6 r*((t=t/i-1)*t*t+1)+n},X:9(e,t,n,r,i){a((t/=i/2)<1)6 r/2*t*t*t+n;6 r/2*((t-=2)*t*t+2)+n},18:9(e,t,n,r,i){6 r*(t/=i)*t*t*t+n},15:9(e,t,n,r,i){6-r*((t=t/i-1)*t*t*t-1)+n},1b:9(e,t,n,r,i){a((t/=i/2)<1)6 r/2*t*t*t*t+n;6-r/2*((t-=2)*t*t*t-2)+n},Q:9(e,t,n,r,i){6 r*(t/=i)*t*t*t*t+n},I:9(e,t,n,r,i){6 r*((t=t/i-1)*t*t*t*t+1)+n},13:9(e,t,n,r,i){a((t/=i/2)<1)6 r/2*t*t*t*t*t+n;6 r/2*((t-=2)*t*t*t*t+2)+n},N:9(e,t,n,r,i){6-r*8.B(t/i*(8.c/2))+r+n},M:9(e,t,n,r,i){6 r*8.l(t/i*(8.c/2))+n},L:9(e,t,n,r,i){6-r/2*(8.B(8.c*t/i)-1)+n},O:9(e,t,n,r,i){6 t==0?n:r*8.f(2,10*(t/i-1))+n},P:9(e,t,n,r,i){6 t==i?n+r:r*(-8.f(2,-10*t/i)+1)+n},S:9(e,t,n,r,i){a(t==0)6 n;a(t==i)6 n+r;a((t/=i/2)<1)6 r/2*8.f(2,10*(t-1))+n;6 r/2*(-8.f(2,-10*--t)+2)+n},R:9(e,t,n,r,i){6-r*(8.m(1-(t/=i)*t)-1)+n},K:9(e,t,n,r,i){6 r*8.m(1-(t=t/i-1)*t)+n},T:9(e,t,n,r,i){a((t/=i/2)<1)6-r/2*(8.m(1-t*t)-1)+n;6 r/2*(8.m(1-(t-=2)*t)+1)+n},F:9(e,t,n,r,i){b s=1.j;b o=0;b u=r;a(t==0)6 n;a((t/=i)==1)6 n+r;a(!o)o=i*.3;a(u<8.v(r)){u=r;b s=o/4}k b s=o/(2*8.c)*8.q(r/u);6-(u*8.f(2,10*(t-=1))*8.l((t*i-s)*2*8.c/o))+n},E:9(e,t,n,r,i){b s=1.j;b o=0;b u=r;a(t==0)6 n;a((t/=i)==1)6 n+r;a(!o)o=i*.3;a(u<8.v(r)){u=r;b s=o/4}k b s=o/(2*8.c)*8.q(r/u);6 u*8.f(2,-10*t)*8.l((t*i-s)*2*8.c/o)+r+n},G:9(e,t,n,r,i){b s=1.j;b o=0;b u=r;a(t==0)6 n;a((t/=i/2)==2)6 n+r;a(!o)o=i*.3*1.5;a(u<8.v(r)){u=r;b s=o/4}k b s=o/(2*8.c)*8.q(r/u);a(t<1)6-.5*u*8.f(2,10*(t-=1))*8.l((t*i-s)*2*8.c/o)+n;6 u*8.f(2,-10*(t-=1))*8.l((t*i-s)*2*8.c/o)*.5+r+n},1a:9(e,t,n,r,i,s){a(s==w)s=1.j;6 r*(t/=i)*t*((s+1)*t-s)+n},19:9(e,t,n,r,i,s){a(s==w)s=1.j;6 r*((t=t/i-1)*t*((s+1)*t+s)+1)+n},14:9(e,t,n,r,i,s){a(s==w)s=1.j;a((t/=i/2)<1)6 r/2*t*t*(((s*=1.z)+1)*t-s)+n;6 r/2*((t-=2)*t*(((s*=1.z)+1)*t+s)+2)+n},A:9(e,t,n,r,i){6 r-d.g.x(e,i-t,0,r,i)+n},x:9(e,t,n,r,i){a((t/=i)<1/2.h){6 r*7.p*t*t+n}k a(t<2/2.h){6 r*(7.p*(t-=1.5/2.h)*t+.h)+n}k a(t<2.5/2.h){6 r*(7.p*(t-=2.V/2.h)*t+.Y)+n}k{6 r*(7.p*(t-=2.16/2.h)*t+.11)+n}},Z:9(e,t,n,r,i){a(t<i/2)6 d.g.A(e,t*2,0,r,i)*.5+n;6 d.g.x(e,t*2-i,0,r,i)*.5+r*.5+n}})',62,74,'||||||return||Math|function|if|var|PI|jQuery||pow|easing|75||70158|else|sin|sqrt|||5625|asin|||||abs|undefined|easeOutBounce|easeOutQuad|525|easeInBounce|cos|swing|def|easeOutElastic|easeInElastic|easeInOutElastic|extend|easeOutQuint|jswing|easeOutCirc|easeInOutSine|easeOutSine|easeInSine|easeInExpo|easeOutExpo|easeInQuint|easeInCirc|easeInOutExpo|easeInOutCirc|easeInQuad|25|easeOutCubic|easeInOutCubic|9375|easeInOutBounce||984375|easeInCubic|easeInOutQuint|easeInOutBack|easeOutQuart|625|easeInOutQuad|easeInQuart|easeOutBack|easeInBack|easeInOutQuart'.split('|'),0,{}))
-</script>   
-<script type="text/javascript">
-      $(document).ready(function () {
-        var carousel = $("#carousel").waterwheelCarousel({
-          flankingItems: 3,
-          autoPlay: 0,
-          forcedImageWidth: 450,
-          forcedImageHeight: 315,
-          separation: 150,
-          orientation:'horizontal',
-          linkHandling: 2,
-          
-          movingToCenter: function ($item) {
-            $('#callback-output').prepend('movingToCenter: ' + $item.attr('id') + '<br/>');
-          },
-          movedToCenter: function ($item) {
-            $('#callback-output').prepend('movedToCenter: ' + $item.attr('id') + '<br/>');
-          },
-          movingFromCenter: function ($item) {
-            $('#callback-output').prepend('movingFromCenter: ' + $item.attr('id') + '<br/>');
-          },
-          movedFromCenter: function ($item) {
-            $('#callback-output').prepend('movedFromCenter: ' + $item.attr('id') + '<br/>');
-          },
-          clickedCenter: function ($item) {
-            $('#callback-output').prepend('clickedCenter: ' + $item.attr('id') + '<br/>');
-          }
-        });
-
-        $('.carousel-previous').bind('click', function () {
-          carousel.prev();
-          return false
-        });
-
-        $('.carousel-next').bind('click', function () {
-          carousel.next();
-          return false;
-        });
-
-        $('#reload').bind('click', function () {
-          newOptions = eval("(" + $('#newoptions').val() + ")");
-          carousel.reload(newOptions);
-          return false;
-        });
-
-      });
-    </script>
-
-   
-    
-<script>
-$('#img1').attr("href", "https://www.facebook.com/evolutionautomotivedetail/photos/a.131244067399332.1073741829.131228510734221/210274276162977/?type=3");
-$('#img2').attr("href", "https://www.facebook.com/evolutionautomotivedetail/photos/a.131244067399332.1073741829.131228510734221/217606135429791/?type=3");
-$('#img3').attr("href", "https://www.facebook.com/evolutionautomotivedetail/photos/a.131244067399332.1073741829.131228510734221/217605698763168/?type=3");
-$('#img4').attr("href", "https://www.facebook.com/evolutionautomotivedetail/photos/a.131244067399332.1073741829.131228510734221/217605328763205/?type=3");
-$('#img5').attr("href", "https://s3-media1.fl.yelpcdn.com/bphoto/GQJ7plORdMv5b0_u5la1aQ/o.jpg");
-$('#img6').attr("href", "https://s3-media1.fl.yelpcdn.com/bphoto/VonkghPFOSguhzkYwCCRhw/o.jpg");
-$('#img7').attr("href", "https://s3-media3.fl.yelpcdn.com/bphoto/cC-AKBqdpaDhDOvCxNNozg/o.jpg");
-$( "a" ).remove(" ");
-$( "a" ).remove(" ");
-$( "a" ).remove(" ");
-$( "a" ).remove(" ");
-</script>
-
-    
 		
 		<script id="setmore_script" type="text/javascript" src="https://my.setmore.com/js/iframe/setmore_iframe.js"></script>
 		<script>
