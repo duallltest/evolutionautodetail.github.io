@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507841715191">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507843064691">
   <folder name="css">
     <file name="site_global.css" crc="3860740251"/>
-    <file name="master_a-master.css" crc="4012149498" ref="index"/>
-    <file name="index.css" crc="4178639869" ref="index"/>
+    <file name="master_a-master.css" crc="4210537829" ref="index"/>
+    <file name="index.css" crc="3844703876" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -15,9 +15,7 @@
     <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:index"/>
     <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:index"/>
     <file name="touchswipe.js" crc="432264157" ref="phone>index:index"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="phone>index:index"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>index:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
     <file name="require.js" crc="3861931657" ref="phone>index:index"/>
   </folder>
   <folder name="images">
@@ -134,9 +132,6 @@
     <file name="clearevodetail133x52_2x.png" crc="121691084" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="menu open close.png" crc="416664334" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="hero33-u726-fr.jpg" crc="4194555525" ref="index"/>
     <file name="pic2425x250.jpg" crc="106043287" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -182,10 +177,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4271832579" ref="phone>index"/>
-      <file name="index.css" crc="4121954570" ref="phone>index"/>
+      <file name="master_a-master.css" crc="227082215" ref="phone>index"/>
+      <file name="index.css" crc="4275429548" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="146892592" seo="true" mt="1507841553266" redirect="true"/>
+    <file name="index.html" crc="346534938" seo="true" mt="1507843006459" redirect="true"/>
   </folder>
-  <file name="index.html" crc="42293212" seo="true" mt="1507841573857" redirect="true"/>
+  <file name="index.html" crc="3775100951" seo="true" mt="1507842966540" redirect="true"/>
 </manifest>
