@@ -1,1291 +1,196 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="sftp://198.71.233.135" ftp_rootfolder="//home/laur41298615668/html/mtw-themes/lauriediannafit" exportTarget="FTP" domain="www.lauriediannafit.com" resolutions="1x,2x" timestamp="1503988826655">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507834583606">
   <folder name="css">
-    <file name="site_global.css" crc="3967489362"/>
-    <file name="master_www_lauriediannafit_com.css" crc="4054241404" ref="404:diettraining:index:personaltraining:connect:training:exercisetraining:about:30daychallenge"/>
-    <file name="strengthtrainingpdf.css" crc="437246342" ref="strengthtrainingpdf"/>
-    <file name="iefonts_strengthtrainingpdf.css" crc="23136342" ref="strengthtrainingpdf"/>
-    <file name="404.css" crc="3833254300" ref="404"/>
-    <file name="iefonts_404.css" crc="59306521" ref="404"/>
-    <file name="diettraining.css" crc="3959262901" ref="diettraining"/>
-    <file name="iefonts_diettraining.css" crc="4245667597" ref="diettraining"/>
-    <file name="index.css" crc="395180636" ref="index"/>
-    <file name="iefonts_index.css" crc="475848746" ref="index"/>
-    <file name="personaltraining.css" crc="3902829863" ref="personaltraining"/>
-    <file name="iefonts_personaltraining.css" crc="4235417958" ref="personaltraining"/>
-    <file name="connect.css" crc="31158655" ref="connect"/>
-    <file name="iefonts_connect.css" crc="368587490" ref="connect"/>
-    <file name="weightlosstrainingpdf.css" crc="4093400016" ref="weightlosstrainingpdf"/>
-    <file name="iefonts_weightlosstrainingpdf.css" crc="498545174" ref="weightlosstrainingpdf"/>
-    <file name="training.css" crc="3934104501" ref="training"/>
-    <file name="iefonts_training.css" crc="4182828926" ref="training"/>
-    <file name="exercisetraining.css" crc="4173719512" ref="exercisetraining"/>
-    <file name="iefonts_exercisetraining.css" crc="4031211290" ref="exercisetraining"/>
-    <file name="about.css" crc="4180918372" ref="about"/>
-    <file name="iefonts_about.css" crc="1837652" ref="about"/>
-    <file name="glutetrainingpdf.css" crc="4225581951" ref="glutetrainingpdf"/>
-    <file name="iefonts_glutetrainingpdf.css" crc="256277180" ref="glutetrainingpdf"/>
-    <file name="30daychallenge.css" crc="172843274" ref="30daychallenge"/>
-    <file name="iefonts_30daychallenge.css" crc="4225985783" ref="30daychallenge"/>
-  </folder>
-  <folder name="assets">
-    <file name="ldlogowhite_00.png" crc="258204178" seo="true" mt="1503440441000"/>
-    <file name="atabarrow.png" crc="301860116" seo="true" mt="1503440441000"/>
-    <file name="tabarrow.png" crc="4143655142" seo="true" mt="1503440441000"/>
-    <file name="menupic.png" crc="56451527" seo="true" mt="1503440441000"/>
-    <file name="ddcircle_00.png" crc="32829655" seo="true" mt="1503440441000"/>
-    <file name="contactpic.jpg" crc="4116656991" seo="true" mt="1503440441000"/>
-    <file name="poppng.png" crc="3812058414" seo="true" mt="1503440441000"/>
-    <file name="exercisetrainingpoppng.png" crc="4106786462" seo="true" mt="1503440441000"/>
-    <file name="diettrainingpopng.png" crc="116475637" seo="true" mt="1503440441000"/>
-    <file name="12-week-strength-training-program-(first-one).pdf" crc="4085843451" seo="true" mt="1500444276000"/>
-    <file name="glutetraining.pdf" crc="176640780" seo="true" mt="1503440441000"/>
-    <file name="strengthtraining.pdf" crc="4085843451" seo="true" mt="1503440441000"/>
-    <file name="weightlosstraining.pdf" crc="427428960" seo="true" mt="1503440441000"/>
+    <file name="site_global.css" crc="3860740251"/>
+    <file name="master_a-master.css" crc="4244056616" ref="index"/>
+    <file name="index.css" crc="276841980" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>weightlosstrainingpdf:phone>strengthtrainingpdf:phone>glutetrainingpdf:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:weightlosstrainingpdf:strengthtrainingpdf:glutetrainingpdf:404"/>
-    <file name="museutils.js" crc="17924269" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>weightlosstrainingpdf:phone>strengthtrainingpdf:phone>glutetrainingpdf:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:weightlosstrainingpdf:strengthtrainingpdf:glutetrainingpdf:404"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>weightlosstrainingpdf:phone>strengthtrainingpdf:phone>glutetrainingpdf:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:weightlosstrainingpdf:strengthtrainingpdf:glutetrainingpdf:404"/>
-    <file name="museconfig.js" crc="278381782" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>weightlosstrainingpdf:phone>strengthtrainingpdf:phone>glutetrainingpdf:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:weightlosstrainingpdf:strengthtrainingpdf:glutetrainingpdf:404"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404"/>
-    <file name="webpro.js" crc="416662029" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="touchswipe.js" crc="432264157" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>weightlosstrainingpdf:phone>strengthtrainingpdf:phone>glutetrainingpdf:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:weightlosstrainingpdf:strengthtrainingpdf:glutetrainingpdf:404"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="phone>index:phone>training:phone>diettraining:phone>exercisetraining:training:30daychallenge:personaltraining:diettraining:exercisetraining"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="278381782" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:index"/>
+    <file name="webpro.js" crc="416662029" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="432264157" ref="phone>index:index"/>
     <file name="form_check.php" crc="4110044762" ref="phone>index"/>
     <file name="form_throttle.php" crc="22190333" ref="phone>index"/>
     <file name="form_process.php" crc="257545537" ref="phone>index"/>
-    <file name="form-u95037.php" crc="4177950777" ref="phone>index"/>
-    <file name="form-u95692.php" crc="4158865059" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404:index:training:personaltraining:diettraining:exercisetraining"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>weightlosstrainingpdf:phone>strengthtrainingpdf:phone>glutetrainingpdf:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:weightlosstrainingpdf:strengthtrainingpdf:glutetrainingpdf:404"/>
-    <file name="require.js" crc="3861931657" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>weightlosstrainingpdf:phone>strengthtrainingpdf:phone>glutetrainingpdf:phone>404:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:weightlosstrainingpdf:strengthtrainingpdf:glutetrainingpdf:404"/>
-    <file name="form-u21819.php" crc="323636039" ref="phone>30daychallenge"/>
-    <file name="form-u91152.php" crc="3980427123" ref="phone>diettraining"/>
-    <file name="form-u54457.php" crc="4249084379" ref="phone>diettraining"/>
-    <file name="musewpdisclosure.js" crc="3809204180" ref="phone>diettraining:phone>exercisetraining:exercisetraining"/>
-    <file name="form-u25749.php" crc="3847920218" ref="phone>personaltraining"/>
-    <file name="form-u1114.php" crc="500486229" ref="connect"/>
-    <file name="form-u9935.php" crc="3947859839" ref="30daychallenge"/>
-    <file name="form-u8385.php" crc="331696496" ref="personaltraining"/>
-    <file name="form-u52555.php" crc="4102015127" ref="diettraining"/>
+    <file name="form-u3060.php" crc="138252215" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>index:index"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:index"/>
+    <file name="form-u518.php" crc="365802253" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="85226443" ref="phone>index"/>
-    <file name="ldlogowhite_0098x69.png" crc="258204178" seo="true" ref="phone>index">
+    <file name="favicon.ico" crc="3923032117" ref="phone>index"/>
+    <file name="hero33-u3184-fr.jpg" crc="3882026028" ref="phone>index"/>
+    <file name="pasted image 36x36-u3187.png" crc="4233724105" ref="phone>index"/>
+    <file name="pic2.jpg" crc="490763444" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ldlogowhite_0098x69_2x.png" crc="258204178" seo="true" ref="phone>index">
+    <file name="pic1.jpg" crc="248619799" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="heroing.png" crc="4111353907" ref="phone>index">
+    <file name="e896bb629c57bb67551b09cabb0cdb56.jpg" crc="123800158" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="heroing_2x.png" crc="166348114" ref="phone>index">
+    <file name="hero1-u3183-fr.jpg" crc="121240177" ref="phone>index"/>
+    <file name="1de011ef087d0cea68e55162264bafa4292x465.jpg" crc="3921842780" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining"/>
-    <file name="u95061.png" crc="28096680" ref="phone>index"/>
-    <file name="u95061_2x.png" crc="177373159" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95061-ru.png" crc="94467611" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95061-ru_2x.png" crc="100467275" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95061-ru-r.png" crc="4103740004" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95061-ru-r_2x.png" crc="4257341790" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95061-ru-m.png" crc="4066663609" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95061-ru-m_2x.png" crc="3997952770" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95061-rc.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95061-rc_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95061-rc-r.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95061-rc-r_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95061-rc-m.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95061-rc-m_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="u95064.png" crc="28096680" ref="phone>index"/>
-    <file name="u95064_2x.png" crc="177373159" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95064-ru.png" crc="94467611" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95064-ru_2x.png" crc="100467275" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95064-ru-r.png" crc="4103740004" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95064-ru-r_2x.png" crc="4257341790" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95064-ru-m.png" crc="4066663609" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95064-ru-m_2x.png" crc="3997952770" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95064-rc.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95064-rc_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95064-rc-r.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95064-rc-r_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95064-rc-m.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95064-rc-m_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="u95044.png" crc="28096680" ref="phone>index"/>
-    <file name="u95044_2x.png" crc="177373159" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95044-ru.png" crc="94467611" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95044-ru_2x.png" crc="100467275" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95044-ru-r.png" crc="4103740004" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95044-ru-r_2x.png" crc="4257341790" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95044-ru-m.png" crc="4066663609" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95044-ru-m_2x.png" crc="3997952770" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95044-rc.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95044-rc_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95044-rc-r.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95044-rc-r_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95044-rc-m.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95044-rc-m_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="u95047.png" crc="28096680" ref="phone>index"/>
-    <file name="u95047_2x.png" crc="177373159" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95047-ru.png" crc="94467611" ref="phone>index"/>
-    <file name="radiobuttonunchecked-u95047-ru_2x.png" crc="100467275" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95047-ru-r.png" crc="4103740004" ref="phone>index"/>
-    <file name="radiobuttonuncheckedrollover-u95047-ru-r_2x.png" crc="4257341790" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95047-ru-m.png" crc="4066663609" ref="phone>index"/>
-    <file name="radiobuttonuncheckedmousedown-u95047-ru-m_2x.png" crc="3997952770" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95047-rc.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttonchecked-u95047-rc_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95047-rc-r.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedrollover-u95047-rc-r_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95047-rc-m.png" crc="3872529450" ref="phone>index"/>
-    <file name="radiobuttoncheckedmousedown-u95047-rc-m_2x.png" crc="3846550253" ref="phone>index"/>
-    <file name="ldphone-u101661.png" crc="3843501339" ref="phone>index"/>
-    <file name="ldphone-u101661_2x.png" crc="3880151153" ref="phone>index"/>
-    <file name="gl1_00.jpg" crc="3945488152" seo="true" ref="phone>index">
+    <file name="evodetail-rectangle 1c290x176.png" crc="171009587" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gl1_00_2x.jpg" crc="3796452386" seo="true" ref="phone>index">
+    <file name="evodetail-rectangle 1c_2x.png" crc="4202284833" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gluttttt1_00.jpg" crc="4258476165" seo="true" ref="phone>index">
+    <file name="evodetail-u3118.png" crc="174898960" ref="phone>index"/>
+    <file name="evodetail-u3114.png" crc="3984464132" ref="phone>index"/>
+    <file name="426b307c6d077161a9e909b45d9d6e5e.jpg" crc="1909895" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gluttttt1_00_2x.jpg" crc="3856347223" seo="true" ref="phone>index">
+    <file name="evodetail-crop-u3143.png" crc="466838995" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="herocon-u101671.png" crc="424808361" ref="phone>index"/>
-    <file name="herocon-u101671_2x.png" crc="4013869446" ref="phone>index"/>
-    <file name="mail_icon2-u95653.png" crc="193070850" ref="phone>index"/>
-    <file name="mail_icon2-u95653_2x.png" crc="4190524242" ref="phone>index"/>
-    <file name="mail_icon2-u95653-r.png" crc="3862641937" ref="phone>index"/>
-    <file name="mail_icon2-u95653-r_2x.png" crc="4279790548" ref="phone>index"/>
-    <file name="u95650.png" crc="3773657237" ref="phone>index"/>
-    <file name="u95650_2x.png" crc="4114663076" ref="phone>index"/>
-    <file name="u95650-r.png" crc="3812847194" ref="phone>index"/>
-    <file name="u95650-r_2x.png" crc="338539729" ref="phone>index"/>
-    <file name="u95658.png" crc="402281311" ref="phone>index"/>
-    <file name="u95658_2x.png" crc="292625806" ref="phone>index"/>
-    <file name="u95658-r.png" crc="512035947" ref="phone>index"/>
-    <file name="u95658-r_2x.png" crc="3806817893" ref="phone>index"/>
-    <file name="ddcircle_00.png" crc="295931320" seo="true" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404">
-      <caption webpage="404" alt=""/>
-      <caption webpage="training" alt=""/>
-      <caption webpage="exercisetraining" alt=""/>
-      <caption webpage="diettraining" alt=""/>
-      <caption webpage="30daychallenge" alt=""/>
+    <file name="evodetail-u3145.png" crc="4060962585" ref="phone>index"/>
+    <file name="evodetail-u3141.png" crc="468235497" ref="phone>index"/>
+    <file name="dcb9a6fc3e787213df14c7cb70abaed9.jpg" crc="3908770176" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="personaltraining" alt=""/>
-    </file>
-    <file name="ddcircle_00_2x.png" crc="3934255577" seo="true" ref="phone>index:phone>about:phone>training:phone>30daychallenge:phone>diettraining:phone>exercisetraining:phone>personaltraining:phone>404">
-      <caption webpage="404" alt=""/>
-      <caption webpage="training" alt=""/>
-      <caption webpage="exercisetraining" alt=""/>
-      <caption webpage="diettraining" alt=""/>
-      <caption webpage="30daychallenge" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="personaltraining" alt=""/>
-    </file>
-    <file name="aboutpic1_00-crop-u17671.jpg" crc="101780990" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="aboutpic1_00-crop-u17671_2x.jpg" crc="270319835" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="aboutpic2_00-crop-u17698.jpg" crc="499034876" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="aboutpic2_00-crop-u17698_2x.jpg" crc="156779692" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0854 copy-crop-u18266.jpg" crc="412386475" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0854 copy-crop-u18266_2x.jpg" crc="210725109" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about_00-crop-u18353.jpg" crc="4105511327" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about_00-crop-u18353_2x.jpg" crc="459809050" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about2-crop-u18379.jpg" crc="286212077" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about2-crop-u18379_2x.jpg" crc="4005966332" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0467-crop-u18405.jpg" crc="3839829390" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0467-crop-u18405_2x.jpg" crc="190217031" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="30day_00-crop-u18326.jpg" crc="299355312" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="30day_00-crop-u18326_2x.jpg" crc="4107972101" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0468_00-crop-u18431.jpg" crc="298331962" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0468_00-crop-u18431_2x.jpg" crc="4137241602" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="aboutpic1_00312x438.jpg" crc="163058875" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="aboutpic1_00312x438_2x.jpg" crc="4076819366" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="aboutpic2_00-crop-u17706.jpg" crc="4203781295" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="aboutpic2_00-crop-u17706_2x.jpg" crc="123913159" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0854 copy-crop-u18275.jpg" crc="308625456" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0854 copy-crop-u18275_2x.jpg" crc="3892960378" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about_00-crop-u18361.jpg" crc="3936641890" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about_00-crop-u18361_2x.jpg" crc="511250310" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about2-crop-u18387.jpg" crc="150078213" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about2-crop-u18387_2x.jpg" crc="4207907345" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0467-crop-u18413.jpg" crc="278576055" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0467-crop-u18413_2x.jpg" crc="174818685" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="30day_00301x451.jpg" crc="259641680" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="30day_00301x451_2x.jpg" crc="4170723712" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0468_00.jpg" crc="16890210" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0468_00_2x.jpg" crc="362643915" seo="true" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="u27371.png" crc="22657743" ref="phone>about"/>
-    <file name="u27371_2x.png" crc="3971648046" ref="phone>about"/>
-    <file name="u27371-r.png" crc="22657743" ref="phone>about"/>
-    <file name="u27371-r_2x.png" crc="3971648046" ref="phone>about"/>
-    <file name="loading.gif" crc="3815509949" ref="phone>about:about"/>
-    <file name="img_0510.jpg" crc="4025314086" ref="phone>training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="diettraining-buttonu63986-fr.jpg" crc="536823454" ref="phone>training"/>
-    <file name="30daychallenge_00-buttonu63984-fr.jpg" crc="4066236171" ref="phone>training"/>
-    <file name="30daychallenge_00-buttonu63984-fr_2x.jpg" crc="125583803" ref="phone>training"/>
-    <file name="exediam copy_00-buttonu63990-fr.jpg" crc="500835649" ref="phone>training"/>
-    <file name="exediam copy_00-buttonu63990-fr_2x.jpg" crc="172635786" ref="phone>training"/>
-    <file name="personaldia_00-buttonu63988-fr.jpg" crc="4049669164" ref="phone>training"/>
-    <file name="personaldia_00-buttonu63988-fr_2x.jpg" crc="277009402" ref="phone>training"/>
-    <file name="pexels-photo-196640-crop-u21070.jpg" crc="3930800375" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="pexels-photo-196640-crop-u21070_2x.jpg" crc="3862882426" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="model-with-kettlebell-sexist-stock252x355.jpg" crc="393128627" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="model-with-kettlebell-sexist-stock252x355_2x.jpg" crc="3816897332" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="32088592234_ce731bbfa4_b-crop-u21085.jpg" crc="4004012251" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="30day_00219x368.jpg" crc="4278190934" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="30day_00219x368_2x.jpg" crc="63463687" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="ldlogowhite_0050x35.png" crc="258204178" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="ldlogowhite_0050x35_2x.png" crc="258204178" seo="true" ref="phone>30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="u21829.png" crc="473020824" ref="phone>30daychallenge"/>
-    <file name="u21829_2x.png" crc="316164201" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21829-ru.png" crc="4181652914" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21829-ru_2x.png" crc="26759118" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21829-ru-r.png" crc="3989689865" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21829-ru-r_2x.png" crc="4282987251" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21829-ru-m.png" crc="4097198824" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21829-ru-m_2x.png" crc="4199407739" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21829-rc.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21829-rc_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21829-rc-r.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21829-rc-r_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21829-rc-m.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21829-rc-m_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="u21826.png" crc="473020824" ref="phone>30daychallenge"/>
-    <file name="u21826_2x.png" crc="316164201" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21826-ru.png" crc="4181652914" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21826-ru_2x.png" crc="26759118" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21826-ru-r.png" crc="3989689865" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21826-ru-r_2x.png" crc="4282987251" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21826-ru-m.png" crc="4097198824" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21826-ru-m_2x.png" crc="4199407739" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21826-rc.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21826-rc_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21826-rc-r.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21826-rc-r_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21826-rc-m.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21826-rc-m_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="u21848.png" crc="473020824" ref="phone>30daychallenge"/>
-    <file name="u21848_2x.png" crc="316164201" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21848-ru.png" crc="4181652914" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21848-ru_2x.png" crc="26759118" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21848-ru-r.png" crc="3989689865" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21848-ru-r_2x.png" crc="4282987251" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21848-ru-m.png" crc="4097198824" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21848-ru-m_2x.png" crc="4199407739" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21848-rc.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21848-rc_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21848-rc-r.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21848-rc-r_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21848-rc-m.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21848-rc-m_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="u21851.png" crc="473020824" ref="phone>30daychallenge"/>
-    <file name="u21851_2x.png" crc="316164201" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21851-ru.png" crc="4181652914" ref="phone>30daychallenge"/>
-    <file name="radiobuttonunchecked-u21851-ru_2x.png" crc="26759118" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21851-ru-r.png" crc="3989689865" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u21851-ru-r_2x.png" crc="4282987251" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21851-ru-m.png" crc="4097198824" ref="phone>30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u21851-ru-m_2x.png" crc="4199407739" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21851-rc.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttonchecked-u21851-rc_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21851-rc-r.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u21851-rc-r_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21851-rc-m.png" crc="168586174" ref="phone>30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u21851-rc-m_2x.png" crc="91278940" ref="phone>30daychallenge"/>
-    <file name="u27872.png" crc="4108409378" ref="phone>30daychallenge"/>
-    <file name="u27872_2x.png" crc="421533055" ref="phone>30daychallenge"/>
-    <file name="u27872-r.png" crc="125690959" ref="phone>30daychallenge"/>
-    <file name="u27872-r_2x.png" crc="4209667850" ref="phone>30daychallenge"/>
-    <file name="ldlogowhite_00-u54409.png" crc="278819180" ref="phone>30daychallenge"/>
-    <file name="ldlogowhite_00-u54409_2x.png" crc="3961374431" ref="phone>30daychallenge"/>
-    <file name="meal_prep_for_the_21_day_fix_higher_calorie_level_complete_drkakd270x160.jpg" crc="20718757" seo="true" ref="phone>diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="meal_prep_for_the_21_day_fix_higher_calorie_level_complete_drkakd270x160_2x.jpg" crc="349007368" seo="true" ref="phone>diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="u94760.png" crc="3820613467" ref="phone>diettraining"/>
-    <file name="u94760_2x.png" crc="502288295" ref="phone>diettraining"/>
-    <file name="u94760-r.png" crc="3846130363" ref="phone>diettraining"/>
-    <file name="u94760-r_2x.png" crc="105795016" ref="phone>diettraining"/>
-    <file name="u91139.png" crc="4108409378" ref="phone>diettraining"/>
-    <file name="u91139_2x.png" crc="421533055" ref="phone>diettraining"/>
-    <file name="u91139-r.png" crc="125690959" ref="phone>diettraining"/>
-    <file name="u91139-r_2x.png" crc="4209667850" ref="phone>diettraining"/>
-    <file name="ldlogowhite_00-u91149-fr.png" crc="223195451" ref="phone>diettraining:30daychallenge:personaltraining:diettraining"/>
-    <file name="ldlogowhite_00-u91149-fr_2x.png" crc="4152987984" ref="phone>diettraining"/>
-    <file name="u91179.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u91179_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91179-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91179-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91179-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91179-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91179-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91179-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91179-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91179-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91179-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91179-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91179-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91179-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="u91184.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u91184_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91184-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91184-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91184-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91184-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91184-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91184-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91184-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91184-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91184-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91184-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91184-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91184-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="u91159.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u91159_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91159-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91159-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91159-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91159-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91159-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91159-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91159-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91159-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91159-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91159-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91159-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91159-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="u91162.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u91162_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91162-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u91162-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91162-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u91162-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91162-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u91162-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91162-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u91162-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91162-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u91162-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91162-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u91162-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="u94361.png" crc="3820613467" ref="phone>diettraining"/>
-    <file name="u94361_2x.png" crc="502288295" ref="phone>diettraining"/>
-    <file name="u94361-r.png" crc="3846130363" ref="phone>diettraining"/>
-    <file name="u94361-r_2x.png" crc="105795016" ref="phone>diettraining"/>
-    <file name="u54520.png" crc="4108409378" ref="phone>diettraining"/>
-    <file name="u54520_2x.png" crc="421533055" ref="phone>diettraining"/>
-    <file name="u54520-r.png" crc="125690959" ref="phone>diettraining"/>
-    <file name="u54520-r_2x.png" crc="4209667850" ref="phone>diettraining"/>
-    <file name="u54471.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u54471_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54471-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54471-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54471-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54471-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54471-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54471-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54471-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54471-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54471-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54471-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54471-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54471-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="u54467.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u54467_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54467-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54467-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54467-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54467-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54467-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54467-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54467-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54467-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54467-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54467-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54467-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54467-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="u54497.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u54497_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54497-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54497-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54497-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54497-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54497-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54497-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54497-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54497-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54497-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54497-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54497-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54497-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="u54494.png" crc="356866522" ref="phone>diettraining"/>
-    <file name="u54494_2x.png" crc="4022740116" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54494-ru.png" crc="143295266" ref="phone>diettraining"/>
-    <file name="radiobuttonunchecked-u54494-ru_2x.png" crc="313470741" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54494-ru-r.png" crc="383728247" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u54494-ru-r_2x.png" crc="432708222" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54494-ru-m.png" crc="111434192" ref="phone>diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u54494-ru-m_2x.png" crc="533442341" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54494-rc.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttonchecked-u54494-rc_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54494-rc-r.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedrollover-u54494-rc-r_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54494-rc-m.png" crc="246566118" ref="phone>diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u54494-rc-m_2x.png" crc="130186226" ref="phone>diettraining"/>
-    <file name="que_es_resiliencia_00.jpg" crc="4079482971" ref="phone>exercisetraining:exercisetraining">
-      <caption webpage="exercisetraining" alt="STRENGTH TRAINING"/>
-    </file>
-    <file name="12week_00.jpg" crc="476938947" seo="true" ref="phone>exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="12week_00_2x.jpg" crc="4206144828" seo="true" ref="phone>exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="belly-2354_960_720_00.jpg" crc="4250350526" ref="phone>exercisetraining:exercisetraining">
-      <caption webpage="exercisetraining" alt="WEIGHT LOSS"/>
-    </file>
-    <file name="fatloss-crop-u61640.png" crc="325877675" seo="true" ref="phone>exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="fatloss-crop-u61640_2x.png" crc="528683862" seo="true" ref="phone>exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="sqa_00.jpg" crc="178472579" ref="phone>exercisetraining:exercisetraining">
-      <caption webpage="exercisetraining" alt="GLUTE TRAINING"/>
-    </file>
-    <file name="glute_00164x93.png" crc="4110518434" seo="true" ref="phone>exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="glute_00164x93_2x.png" crc="23190509" seo="true" ref="phone>exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="glowing-u54681.png" crc="432656372" ref="phone>personaltraining"/>
-    <file name="glowing-u54681_2x.png" crc="65006938" ref="phone>personaltraining"/>
-    <file name="ldlogowhite_0057x40.png" crc="258204178" seo="true" ref="phone>personaltraining">
-      <caption webpage="personaltraining" alt=""/>
-      <caption webpage="personaltraining" alt=""/>
-    </file>
-    <file name="ldlogowhite_0057x40_2x.png" crc="258204178" seo="true" ref="phone>personaltraining">
-      <caption webpage="personaltraining" alt=""/>
-      <caption webpage="personaltraining" alt=""/>
-    </file>
-    <file name="u25779.png" crc="356866522" ref="phone>personaltraining"/>
-    <file name="u25779_2x.png" crc="4022740116" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25779-ru.png" crc="143295266" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25779-ru_2x.png" crc="313470741" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25779-ru-r.png" crc="383728247" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25779-ru-r_2x.png" crc="432708222" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25779-ru-m.png" crc="111434192" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25779-ru-m_2x.png" crc="533442341" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25779-rc.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25779-rc_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25779-rc-r.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25779-rc-r_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25779-rc-m.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25779-rc-m_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="u25775.png" crc="356866522" ref="phone>personaltraining"/>
-    <file name="u25775_2x.png" crc="4022740116" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25775-ru.png" crc="143295266" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25775-ru_2x.png" crc="313470741" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25775-ru-r.png" crc="383728247" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25775-ru-r_2x.png" crc="432708222" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25775-ru-m.png" crc="111434192" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25775-ru-m_2x.png" crc="533442341" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25775-rc.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25775-rc_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25775-rc-r.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25775-rc-r_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25775-rc-m.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25775-rc-m_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="u25790.png" crc="356866522" ref="phone>personaltraining"/>
-    <file name="u25790_2x.png" crc="4022740116" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25790-ru.png" crc="143295266" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25790-ru_2x.png" crc="313470741" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25790-ru-r.png" crc="383728247" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25790-ru-r_2x.png" crc="432708222" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25790-ru-m.png" crc="111434192" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25790-ru-m_2x.png" crc="533442341" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25790-rc.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25790-rc_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25790-rc-r.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25790-rc-r_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25790-rc-m.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25790-rc-m_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="u25787.png" crc="356866522" ref="phone>personaltraining"/>
-    <file name="u25787_2x.png" crc="4022740116" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25787-ru.png" crc="143295266" ref="phone>personaltraining"/>
-    <file name="radiobuttonunchecked-u25787-ru_2x.png" crc="313470741" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25787-ru-r.png" crc="383728247" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u25787-ru-r_2x.png" crc="432708222" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25787-ru-m.png" crc="111434192" ref="phone>personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u25787-ru-m_2x.png" crc="533442341" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25787-rc.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttonchecked-u25787-rc_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25787-rc-r.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u25787-rc-r_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25787-rc-m.png" crc="246566118" ref="phone>personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u25787-rc-m_2x.png" crc="130186226" ref="phone>personaltraining"/>
-    <file name="u29720.png" crc="4108409378" ref="phone>personaltraining"/>
-    <file name="u29720_2x.png" crc="421533055" ref="phone>personaltraining"/>
-    <file name="u29720-r.png" crc="125690959" ref="phone>personaltraining"/>
-    <file name="u29720-r_2x.png" crc="4209667850" ref="phone>personaltraining"/>
-    <file name="u92700.png" crc="200358212" ref="phone>personaltraining"/>
-    <file name="u92700_2x.png" crc="3993676169" ref="phone>personaltraining"/>
-    <file name="u92700-r.png" crc="275547314" ref="phone>personaltraining"/>
-    <file name="u92700-r_2x.png" crc="4280863938" ref="phone>personaltraining"/>
-    <file name="u92700-a.png" crc="3821043674" ref="phone>personaltraining"/>
-    <file name="u92700-a_2x.png" crc="3824542703" ref="phone>personaltraining"/>
-    <file name="belly-2354_960_720_00-crop-u97274.jpg" crc="98746337" seo="true" ref="phone>weightlosstrainingpdf">
-      <caption webpage="weightlosstrainingpdf" alt=""/>
-    </file>
-    <file name="que_es_resiliencia_00-crop-u97292.jpg" crc="152855005" seo="true" ref="phone>strengthtrainingpdf">
-      <caption webpage="strengthtrainingpdf" alt=""/>
-    </file>
-    <file name="sqa-crop-u97311.jpg" crc="4260548845" seo="true" ref="phone>glutetrainingpdf">
-      <caption webpage="glutetrainingpdf" alt=""/>
-    </file>
-    <file name="mail_icon2-u55938.png" crc="312954957" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="mail_icon2-u55938_2x.png" crc="368975370" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="mail_icon2-u55938-r.png" crc="426931908" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="mail_icon2-u55938-r_2x.png" crc="4263059871" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u55917.png" crc="426931908" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u55917_2x.png" crc="4263059871" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u55917-r.png" crc="4131454746" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u55917-r_2x.png" crc="402875032" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43890.png" crc="3785678851" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43890_2x.png" crc="4216203138" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43890-r.png" crc="3764782133" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43890-r_2x.png" crc="3766732018" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43893.png" crc="135206425" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43893_2x.png" crc="471461375" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43893-r.png" crc="417617163" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="u43893-r_2x.png" crc="4265224500" ref="index:about:training:connect:30daychallenge:personaltraining:diettraining:exercisetraining:404"/>
-    <file name="hero2_2x.jpg" crc="45004811" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero2_2x_2x.jpg" crc="4228131758" ref="index">
+    <file name="evodetail-u3129.png" crc="138789575" ref="phone>index"/>
+    <file name="evodetail-crop-u3127.png" crc="3844814330" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u53111.png" crc="4102266124" ref="index"/>
-    <file name="u53111_2x.png" crc="421686151" ref="index"/>
-    <file name="u53111-r.png" crc="3851338859" ref="index"/>
-    <file name="u53111-r_2x.png" crc="431189279" ref="index"/>
-    <file name="u56305.png" crc="41425260" ref="index"/>
-    <file name="u56305_2x.png" crc="497969714" ref="index"/>
-    <file name="u56305-r.png" crc="41425260" ref="index"/>
-    <file name="u56305-r_2x.png" crc="497969714" ref="index"/>
-    <file name="headermax-crop-u53464.jpg" crc="493828501" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="evodetail-u3125.png" crc="522170316" ref="phone>index"/>
+    <file name="hero3-u3148-fr.jpg" crc="32328318" ref="phone>index"/>
+    <file name="corner-u3039.png" crc="222288269" ref="phone>index"/>
+    <file name="pasted image 250x250-u3042-fr.jpg" crc="4056436398" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3042-fr_2x.jpg" crc="4130837695" ref="phone>index:index"/>
+    <file name="stars54x11_2x.png" crc="292500548" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="headermax-crop-u53464_2x.jpg" crc="501979738" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="stars54x11_2x_2x.png" crc="292500548" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0467-crop-u20105.jpg" crc="4073898537" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="corner-u3028.png" crc="222288269" ref="phone>index"/>
+    <file name="pasted image 250x250-u3026-fr.jpg" crc="525152079" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3026-fr_2x.jpg" crc="18304714" ref="phone>index:index"/>
+    <file name="corner-u3018.png" crc="222288269" ref="phone>index"/>
+    <file name="pasted image 250x250-u3017-fr.jpg" crc="136069432" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3017-fr_2x.jpg" crc="4119178206" ref="phone>index:index"/>
+    <file name="corner-u3006.png" crc="222288269" ref="phone>index"/>
+    <file name="pasted image 250x250-u3003-fr.jpg" crc="331961783" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3003-fr_2x.jpg" crc="4243821364" ref="phone>index:index"/>
+    <file name="yelpsmash-buttonu3102-fr.png" crc="4275637655" ref="phone>index:index"/>
+    <file name="yelpsmash-buttonu3102-fr_2x.png" crc="4166443059" ref="phone>index:index"/>
+    <file name="social-inside-facebook-icon.png" crc="234225298" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0467-crop-u20105_2x.jpg" crc="227305018" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="pasted image 256x228-buttonu3100-fr.png" crc="4235609051" ref="phone>index:index"/>
+    <file name="map.jpg" crc="4170088792" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="about2-crop-u20085.jpg" crc="4119133354" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="map_2x.jpg" crc="14083141" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="about2-crop-u20085_2x.jpg" crc="3891167069" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="cbstadium-u3095.png" crc="4148971806" ref="phone>index"/>
+    <file name="cbstadium-u3095_2x.png" crc="3793405604" ref="phone>index"/>
+    <file name="6flags.png" crc="4085885978" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="aboutpic2_00-crop-u20200.jpg" crc="4187197019" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="clearevodetail-layer 0.png" crc="512434343" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="aboutpic2_00-crop-u20200_2x.jpg" crc="209190445" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="clearevodetail-layer 0_2x.png" crc="3799101461" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0468_01-crop-u55896.jpg" crc="4242882848" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="clearevodetail.png" crc="3881932521" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0468_01-crop-u55896_2x.jpg" crc="4277941579" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="clearevodetail_2x.png" crc="4169939392" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0854 copy-crop-u27128.jpg" crc="25355036" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="bar.png" crc="3815970905" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0854 copy-crop-u27128_2x.jpg" crc="458471228" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="hero33-u726-fr.jpg" crc="4194555525" ref="index"/>
+    <file name="pasted image 36x36-u766.png" crc="4233724105" ref="index"/>
+    <file name="pic2425x250.jpg" crc="106043287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="about_00-crop-u55862.jpg" crc="3942415613" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="pic2_2x.jpg" crc="16289442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="about_00-crop-u55862_2x.jpg" crc="4287815962" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="pic1424x250.jpg" crc="3889478827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="aboutpic1_00-crop-u20180.jpg" crc="272850640" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="pic1424x250_2x.jpg" crc="3992569407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="aboutpic1_00-crop-u20180_2x.jpg" crc="3928894200" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="e896bb629c57bb67551b09cabb0cdb56-crop-u2579.jpg" crc="477857398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="aboutpic2_00-crop-u20206.jpg" crc="274848513" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="hero1-u2752-fr.jpg" crc="291880534" ref="index"/>
+    <file name="evodetail-u1402.png" crc="174898960" ref="index"/>
+    <file name="evodetail-u1388.png" crc="3984464132" ref="index"/>
+    <file name="evodetail-crop-u1705.png" crc="466838995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="aboutpic1_00-crop-u20186.jpg" crc="4288779778" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="evodetail-u1437.png" crc="4060962585" ref="index"/>
+    <file name="evodetail-u1374.png" crc="468235497" ref="index"/>
+    <file name="evodetail-u1423.png" crc="138789575" ref="index"/>
+    <file name="evodetail-crop-u1465.png" crc="3844814330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="about2-crop-u20091.jpg" crc="113585329" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="evodetail-u1360.png" crc="522170316" ref="index"/>
+    <file name="hero3-u2763-fr.jpg" crc="287286052" ref="index"/>
+    <file name="corner-u2312.png" crc="222288269" ref="index"/>
+    <file name="corner-u2340.png" crc="222288269" ref="index"/>
+    <file name="corner-u2023.png" crc="222288269" ref="index"/>
+    <file name="corner-u2270.png" crc="222288269" ref="index"/>
+    <file name="cbstadium-u1815.png" crc="4148971806" ref="index"/>
+    <file name="cbstadium-u1815_2x.png" crc="3793405604" ref="index"/>
+    <file name="evodetail.jpg" crc="131656064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="about2-crop-u20091_2x.jpg" crc="4173058891" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0467-crop-u20111.jpg" crc="3945120275" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0467-crop-u20111_2x.jpg" crc="473086763" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0854 copy-crop-u27137.jpg" crc="478071830" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0854 copy-crop-u27137_2x.jpg" crc="4052259925" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="headermax-crop-u53470.jpg" crc="3972776331" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about_00-crop-u55871.jpg" crc="324247628" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about_00-crop-u55871_2x.jpg" crc="265839042" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0468_01-crop-u55902.jpg" crc="457942732" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_0468_01-crop-u55902_2x.jpg" crc="57111366" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="u19803.png" crc="3902546567" ref="about"/>
-    <file name="u19803_2x.png" crc="3869241589" ref="about"/>
-    <file name="u19803-r.png" crc="325192885" ref="about"/>
-    <file name="u19803-r_2x.png" crc="482194682" ref="about"/>
-    <file name="card1-bg-u65531-fr.png" crc="444790424" ref="training"/>
-    <file name="logo-laurie-dianna-fit@2x305x171.png" crc="91051744" seo="true" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="logo-laurie-dianna-fit@2x305x171_2x.png" crc="3945891662" seo="true" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="u65525.png" crc="3908037091" ref="training"/>
-    <file name="u65525_2x.png" crc="4224813163" ref="training"/>
-    <file name="u65525-r.png" crc="251807338" ref="training"/>
-    <file name="u65525-r_2x.png" crc="168192166" ref="training"/>
-    <file name="u65525-a.png" crc="6138722" ref="training"/>
-    <file name="u65525-a_2x.png" crc="4276585354" ref="training"/>
-    <file name="img_05102.jpg" crc="4237174507" seo="true" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="30daychallenge_00.jpg" crc="3939636766" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="diettraining-buttonu6342-fr.jpg" crc="91701655" ref="training"/>
-    <file name="personaldia_00.jpg" crc="396296449" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="exediam copy_00.jpg" crc="4009766823" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="u6475.png" crc="71074537" ref="connect"/>
-    <file name="u6475_2x.png" crc="209286484" ref="connect"/>
-    <file name="u6475-r.png" crc="396243255" ref="connect"/>
-    <file name="u6475-r_2x.png" crc="236034991" ref="connect"/>
-    <file name="pexels-photo-196640-crop-u10393.jpg" crc="3956161745" seo="true" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="pexels-photo-196640-crop-u10393_2x.jpg" crc="4091857198" seo="true" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="model-with-kettlebell-sexist-stock-crop-u12189.jpg" crc="4220974811" seo="true" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="32088592234_ce731bbfa4_b-crop-u10383.jpg" crc="4118499725" seo="true" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="30day_00.jpg" crc="433049463" seo="true" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="30day_00_2x.jpg" crc="339857363" seo="true" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="ldlogowhite_00-u9930-fr_2x.png" crc="3893015178" ref="30daychallenge:personaltraining:diettraining"/>
-    <file name="u9962.png" crc="356866522" ref="30daychallenge"/>
-    <file name="u9962_2x.png" crc="4022740116" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9962-ru.png" crc="143295266" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9962-ru_2x.png" crc="313470741" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9962-ru-r.png" crc="383728247" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9962-ru-r_2x.png" crc="432708222" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9962-ru-m.png" crc="111434192" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9962-ru-m_2x.png" crc="533442341" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9962-rc.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9962-rc_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9962-rc-r.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9962-rc-r_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9962-rc-m.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9962-rc-m_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="u9967.png" crc="356866522" ref="30daychallenge"/>
-    <file name="u9967_2x.png" crc="4022740116" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9967-ru.png" crc="143295266" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9967-ru_2x.png" crc="313470741" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9967-ru-r.png" crc="383728247" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9967-ru-r_2x.png" crc="432708222" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9967-ru-m.png" crc="111434192" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9967-ru-m_2x.png" crc="533442341" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9967-rc.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9967-rc_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9967-rc-r.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9967-rc-r_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9967-rc-m.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9967-rc-m_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="u9951.png" crc="356866522" ref="30daychallenge"/>
-    <file name="u9951_2x.png" crc="4022740116" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9951-ru.png" crc="143295266" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9951-ru_2x.png" crc="313470741" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9951-ru-r.png" crc="383728247" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9951-ru-r_2x.png" crc="432708222" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9951-ru-m.png" crc="111434192" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9951-ru-m_2x.png" crc="533442341" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9951-rc.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9951-rc_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9951-rc-r.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9951-rc-r_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9951-rc-m.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9951-rc-m_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="u9957.png" crc="356866522" ref="30daychallenge"/>
-    <file name="u9957_2x.png" crc="4022740116" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9957-ru.png" crc="143295266" ref="30daychallenge"/>
-    <file name="radiobuttonunchecked-u9957-ru_2x.png" crc="313470741" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9957-ru-r.png" crc="383728247" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedrollover-u9957-ru-r_2x.png" crc="432708222" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9957-ru-m.png" crc="111434192" ref="30daychallenge"/>
-    <file name="radiobuttonuncheckedmousedown-u9957-ru-m_2x.png" crc="533442341" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9957-rc.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttonchecked-u9957-rc_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9957-rc-r.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedrollover-u9957-rc-r_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9957-rc-m.png" crc="246566118" ref="30daychallenge"/>
-    <file name="radiobuttoncheckedmousedown-u9957-rc-m_2x.png" crc="130186226" ref="30daychallenge"/>
-    <file name="u30224.png" crc="305731117" ref="30daychallenge"/>
-    <file name="u30224_2x.png" crc="488262869" ref="30daychallenge"/>
-    <file name="u30224-r.png" crc="164465114" ref="30daychallenge"/>
-    <file name="u30224-r_2x.png" crc="313040500" ref="30daychallenge"/>
-    <file name="u30224-a.png" crc="4072999943" ref="30daychallenge"/>
-    <file name="u30224-a_2x.png" crc="4175451179" ref="30daychallenge"/>
-    <file name="u30365.png" crc="278546924" ref="30daychallenge"/>
-    <file name="u30365_2x.png" crc="192495726" ref="30daychallenge"/>
-    <file name="u30365-r.png" crc="4027724775" ref="30daychallenge"/>
-    <file name="u30365-r_2x.png" crc="399402391" ref="30daychallenge"/>
-    <file name="u30365-a.png" crc="61771585" ref="30daychallenge"/>
-    <file name="u30365-a_2x.png" crc="248425499" ref="30daychallenge"/>
-    <file name="30head2_00.png" crc="81983349" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="30head2_00_2x.png" crc="524469863" ref="30daychallenge">
-      <caption webpage="30daychallenge" alt=""/>
-    </file>
-    <file name="u92668.png" crc="23698691" ref="personaltraining"/>
-    <file name="u92668_2x.png" crc="415065479" ref="personaltraining"/>
-    <file name="u92668-r.png" crc="247336267" ref="personaltraining"/>
-    <file name="u92668-r_2x.png" crc="173522967" ref="personaltraining"/>
-    <file name="u92668-a.png" crc="247336267" ref="personaltraining"/>
-    <file name="u92668-a_2x.png" crc="173522967" ref="personaltraining"/>
-    <file name="u92690.png" crc="534848758" ref="personaltraining"/>
-    <file name="u92690_2x.png" crc="3890733102" ref="personaltraining"/>
-    <file name="u92690-r.png" crc="121294168" ref="personaltraining"/>
-    <file name="u92690-r_2x.png" crc="3844336382" ref="personaltraining"/>
-    <file name="u92690-a.png" crc="121294168" ref="personaltraining"/>
-    <file name="u92690-a_2x.png" crc="3844336382" ref="personaltraining"/>
-    <file name="u8440.png" crc="356866522" ref="personaltraining"/>
-    <file name="u8440_2x.png" crc="4022740116" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8440-ru.png" crc="143295266" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8440-ru_2x.png" crc="313470741" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8440-ru-r.png" crc="383728247" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8440-ru-r_2x.png" crc="432708222" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8440-ru-m.png" crc="111434192" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8440-ru-m_2x.png" crc="533442341" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8440-rc.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8440-rc_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8440-rc-r.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8440-rc-r_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8440-rc-m.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8440-rc-m_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="u8442.png" crc="356866522" ref="personaltraining"/>
-    <file name="u8442_2x.png" crc="4022740116" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8442-ru.png" crc="143295266" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8442-ru_2x.png" crc="313470741" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8442-ru-r.png" crc="383728247" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8442-ru-r_2x.png" crc="432708222" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8442-ru-m.png" crc="111434192" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8442-ru-m_2x.png" crc="533442341" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8442-rc.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8442-rc_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8442-rc-r.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8442-rc-r_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8442-rc-m.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8442-rc-m_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="u8408.png" crc="356866522" ref="personaltraining"/>
-    <file name="u8408_2x.png" crc="4022740116" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8408-ru.png" crc="143295266" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8408-ru_2x.png" crc="313470741" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8408-ru-r.png" crc="383728247" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8408-ru-r_2x.png" crc="432708222" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8408-ru-m.png" crc="111434192" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8408-ru-m_2x.png" crc="533442341" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8408-rc.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8408-rc_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8408-rc-r.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8408-rc-r_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8408-rc-m.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8408-rc-m_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="u8413.png" crc="356866522" ref="personaltraining"/>
-    <file name="u8413_2x.png" crc="4022740116" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8413-ru.png" crc="143295266" ref="personaltraining"/>
-    <file name="radiobuttonunchecked-u8413-ru_2x.png" crc="313470741" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8413-ru-r.png" crc="383728247" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedrollover-u8413-ru-r_2x.png" crc="432708222" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8413-ru-m.png" crc="111434192" ref="personaltraining"/>
-    <file name="radiobuttonuncheckedmousedown-u8413-ru-m_2x.png" crc="533442341" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8413-rc.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttonchecked-u8413-rc_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8413-rc-r.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedrollover-u8413-rc-r_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8413-rc-m.png" crc="246566118" ref="personaltraining"/>
-    <file name="radiobuttoncheckedmousedown-u8413-rc-m_2x.png" crc="130186226" ref="personaltraining"/>
-    <file name="u31183.png" crc="305731117" ref="personaltraining"/>
-    <file name="u31183_2x.png" crc="488262869" ref="personaltraining"/>
-    <file name="u31183-r.png" crc="164465114" ref="personaltraining"/>
-    <file name="u31183-r_2x.png" crc="313040500" ref="personaltraining"/>
-    <file name="u31183-a.png" crc="4072999943" ref="personaltraining"/>
-    <file name="u31183-a_2x.png" crc="4175451179" ref="personaltraining"/>
-    <file name="u31242.png" crc="278546924" ref="personaltraining"/>
-    <file name="u31242_2x.png" crc="192495726" ref="personaltraining"/>
-    <file name="u31242-r.png" crc="4027724775" ref="personaltraining"/>
-    <file name="u31242-r_2x.png" crc="399402391" ref="personaltraining"/>
-    <file name="u31242-a.png" crc="61771585" ref="personaltraining"/>
-    <file name="u31242-a_2x.png" crc="248425499" ref="personaltraining"/>
-    <file name="personal2_00.png" crc="4032062678" ref="personaltraining">
-      <caption webpage="personaltraining" alt=""/>
-    </file>
-    <file name="meal_prep_for_the_21_day_fix_higher_calorie_level_complete_drkakd-crop-u44176.jpg" crc="410426471" seo="true" ref="diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="slideshow_05_00.jpg" crc="220424636" seo="true" ref="diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="slideshow_05_00_2x.jpg" crc="464759754" seo="true" ref="diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="slideshow_06_00.jpg" crc="277938350" seo="true" ref="diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="slideshow_06_00_2x.jpg" crc="345038213" seo="true" ref="diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="u52613.png" crc="305731117" ref="diettraining"/>
-    <file name="u52613_2x.png" crc="488262869" ref="diettraining"/>
-    <file name="u52613-r.png" crc="164465114" ref="diettraining"/>
-    <file name="u52613-r_2x.png" crc="313040500" ref="diettraining"/>
-    <file name="u52613-a.png" crc="4072999943" ref="diettraining"/>
-    <file name="u52613-a_2x.png" crc="4175451179" ref="diettraining"/>
-    <file name="u52588.png" crc="356866522" ref="diettraining"/>
-    <file name="u52588_2x.png" crc="4022740116" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52588-ru.png" crc="143295266" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52588-ru_2x.png" crc="313470741" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52588-ru-r.png" crc="383728247" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52588-ru-r_2x.png" crc="432708222" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52588-ru-m.png" crc="111434192" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52588-ru-m_2x.png" crc="533442341" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52588-rc.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52588-rc_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52588-rc-r.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52588-rc-r_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52588-rc-m.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52588-rc-m_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="u52584.png" crc="356866522" ref="diettraining"/>
-    <file name="u52584_2x.png" crc="4022740116" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52584-ru.png" crc="143295266" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52584-ru_2x.png" crc="313470741" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52584-ru-r.png" crc="383728247" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52584-ru-r_2x.png" crc="432708222" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52584-ru-m.png" crc="111434192" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52584-ru-m_2x.png" crc="533442341" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52584-rc.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52584-rc_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52584-rc-r.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52584-rc-r_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52584-rc-m.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52584-rc-m_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="u52609.png" crc="356866522" ref="diettraining"/>
-    <file name="u52609_2x.png" crc="4022740116" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52609-ru.png" crc="143295266" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52609-ru_2x.png" crc="313470741" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52609-ru-r.png" crc="383728247" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52609-ru-r_2x.png" crc="432708222" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52609-ru-m.png" crc="111434192" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52609-ru-m_2x.png" crc="533442341" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52609-rc.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52609-rc_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52609-rc-r.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52609-rc-r_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52609-rc-m.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52609-rc-m_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="u52606.png" crc="356866522" ref="diettraining"/>
-    <file name="u52606_2x.png" crc="4022740116" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52606-ru.png" crc="143295266" ref="diettraining"/>
-    <file name="radiobuttonunchecked-u52606-ru_2x.png" crc="313470741" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52606-ru-r.png" crc="383728247" ref="diettraining"/>
-    <file name="radiobuttonuncheckedrollover-u52606-ru-r_2x.png" crc="432708222" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52606-ru-m.png" crc="111434192" ref="diettraining"/>
-    <file name="radiobuttonuncheckedmousedown-u52606-ru-m_2x.png" crc="533442341" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52606-rc.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttonchecked-u52606-rc_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52606-rc-r.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedrollover-u52606-rc-r_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52606-rc-m.png" crc="246566118" ref="diettraining"/>
-    <file name="radiobuttoncheckedmousedown-u52606-rc-m_2x.png" crc="130186226" ref="diettraining"/>
-    <file name="u49901.png" crc="398046276" ref="diettraining"/>
-    <file name="u49901_2x.png" crc="3988833813" ref="diettraining"/>
-    <file name="u49901-r.png" crc="398046276" ref="diettraining"/>
-    <file name="u49901-r_2x.png" crc="3988833813" ref="diettraining"/>
-    <file name="u49901-a.png" crc="3801525007" ref="diettraining"/>
-    <file name="u49901-a_2x.png" crc="4280613546" ref="diettraining"/>
-    <file name="u49899.png" crc="293648164" ref="diettraining"/>
-    <file name="u49899_2x.png" crc="4089845975" ref="diettraining"/>
-    <file name="u49899-r.png" crc="399106564" ref="diettraining"/>
-    <file name="u49899-r_2x.png" crc="333532008" ref="diettraining"/>
-    <file name="u49899-a.png" crc="4264925699" ref="diettraining"/>
-    <file name="u49899-a_2x.png" crc="4085206479" ref="diettraining"/>
-    <file name="u94154.png" crc="293648164" ref="diettraining"/>
-    <file name="u94154_2x.png" crc="4089845975" ref="diettraining"/>
-    <file name="u94154-r.png" crc="399106564" ref="diettraining"/>
-    <file name="u94154-r_2x.png" crc="333532008" ref="diettraining"/>
-    <file name="u94154-a.png" crc="4264925699" ref="diettraining"/>
-    <file name="u94154-a_2x.png" crc="4085206479" ref="diettraining"/>
-    <file name="u94152.png" crc="4182780686" ref="diettraining"/>
-    <file name="u94152_2x.png" crc="329306085" ref="diettraining"/>
-    <file name="u94152-r.png" crc="4182780686" ref="diettraining"/>
-    <file name="u94152-r_2x.png" crc="329306085" ref="diettraining"/>
-    <file name="u94152-a.png" crc="4188453337" ref="diettraining"/>
-    <file name="u94152-a_2x.png" crc="149976037" ref="diettraining"/>
-    <file name="dietheaa2_00.png" crc="162744415" ref="diettraining">
-      <caption webpage="diettraining" alt=""/>
-    </file>
-    <file name="bicepicon-u88731.png" crc="4073428414" ref="exercisetraining"/>
-    <file name="bicepicon-u88731_2x.png" crc="401166884" ref="exercisetraining"/>
-    <file name="12week_00_00.jpg" crc="4188731033" ref="exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="fatloss-crop-u61488.png" crc="25028967" seo="true" ref="exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="fatloss-crop-u61488_2x.png" crc="3949284248" seo="true" ref="exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="wtlicon-u88716.png" crc="4158041336" ref="exercisetraining"/>
-    <file name="wtlicon-u88716_2x.png" crc="4033191533" ref="exercisetraining"/>
-    <file name="gluteicon2-u88724.png" crc="491538164" ref="exercisetraining"/>
-    <file name="gluteicon2-u88724_2x.png" crc="44552880" ref="exercisetraining"/>
-    <file name="glute_00.png" crc="3954295889" seo="true" ref="exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="glute_00_2x.png" crc="4141945522" seo="true" ref="exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="exerhead3_00.png" crc="180437988" ref="exercisetraining">
-      <caption webpage="exercisetraining" alt=""/>
-    </file>
-    <file name="belly-2354_960_720_00-crop-u96606.jpg" crc="490013433" seo="true" ref="weightlosstrainingpdf">
-      <caption webpage="weightlosstrainingpdf" alt=""/>
-    </file>
-    <file name="que_es_resiliencia.jpg" crc="4079482971" seo="true" ref="strengthtrainingpdf">
-      <caption webpage="strengthtrainingpdf" alt=""/>
-    </file>
-    <file name="sqa-crop-u96643.jpg" crc="447640165" seo="true" ref="glutetrainingpdf">
-      <caption webpage="glutetrainingpdf" alt=""/>
+    <file name="evodetail_2x.jpg" crc="4215392148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_www_lauriediannafit_com.css" crc="265658460" ref="phone>index:phone>30daychallenge:phone>training:phone>404:phone>exercisetraining:phone>diettraining:phone>about:phone>personaltraining"/>
-      <file name="index.css" crc="3941101921" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="201261206" ref="phone>index"/>
-      <file name="glutetrainingpdf.css" crc="380723877" ref="phone>glutetrainingpdf"/>
-      <file name="iefonts_glutetrainingpdf.css" crc="124956847" ref="phone>glutetrainingpdf"/>
-      <file name="30daychallenge.css" crc="4163802203" ref="phone>30daychallenge"/>
-      <file name="iefonts_30daychallenge.css" crc="3900113335" ref="phone>30daychallenge"/>
-      <file name="training.css" crc="123091360" ref="phone>training"/>
-      <file name="iefonts_training.css" crc="284192504" ref="phone>training"/>
-      <file name="404.css" crc="3953784284" ref="phone>404"/>
-      <file name="iefonts_404.css" crc="4178258662" ref="phone>404"/>
-      <file name="exercisetraining.css" crc="4107219844" ref="phone>exercisetraining"/>
-      <file name="iefonts_exercisetraining.css" crc="33458746" ref="phone>exercisetraining"/>
-      <file name="strengthtrainingpdf.css" crc="319876041" ref="phone>strengthtrainingpdf"/>
-      <file name="iefonts_strengthtrainingpdf.css" crc="4059856547" ref="phone>strengthtrainingpdf"/>
-      <file name="diettraining.css" crc="3808355717" ref="phone>diettraining"/>
-      <file name="iefonts_diettraining.css" crc="83980411" ref="phone>diettraining"/>
-      <file name="weightlosstrainingpdf.css" crc="4119897851" ref="phone>weightlosstrainingpdf"/>
-      <file name="iefonts_weightlosstrainingpdf.css" crc="295963253" ref="phone>weightlosstrainingpdf"/>
-      <file name="about.css" crc="3898431066" ref="phone>about"/>
-      <file name="iefonts_about.css" crc="495788834" ref="phone>about"/>
-      <file name="personaltraining.css" crc="374773490" ref="phone>personaltraining"/>
-      <file name="iefonts_personaltraining.css" crc="121285793" ref="phone>personaltraining"/>
+      <file name="master_a-master.css" crc="3891130237" ref="phone>index"/>
+      <file name="index.css" crc="4144250959" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="282236404" seo="true" mt="1503987119393" redirect="true"/>
-    <file name="about.html" crc="149697706" seo="true" mt="1503986866015" redirect="true"/>
-    <file name="training.html" crc="4276271347" seo="true" mt="1503986866015" redirect="true"/>
-    <file name="30daychallenge.html" crc="4188818598" seo="true" mt="1503986866015" redirect="true"/>
-    <file name="diettraining.html" crc="533936167" seo="true" mt="1503986866015" redirect="true"/>
-    <file name="exercisetraining.html" crc="4283110556" seo="true" mt="1503986866015" redirect="true"/>
-    <file name="personaltraining.html" crc="3927196711" seo="true" mt="1503986866015" redirect="true"/>
-    <file name="weightlosstrainingpdf.html" crc="3802196876" seo="true" mt="1503890963813" redirect="true"/>
-    <file name="strengthtrainingpdf.html" crc="309691920" seo="true" mt="1503891118047" redirect="true"/>
-    <file name="glutetrainingpdf.html" crc="4093603741" seo="true" mt="1503891202365" redirect="true"/>
-    <file name="404.html" crc="4276148333" seo="true" mt="1503986866015" redirect="true"/>
+    <file name="index.html" crc="140415723" seo="true" mt="1507834526547" redirect="true"/>
   </folder>
-  <file name="index.html" crc="89985475" seo="true" mt="1503984701412" redirect="true"/>
-  <file name="about.html" crc="4271422778" seo="true" mt="1503985493707" redirect="true"/>
-  <file name="training.html" crc="123200783" seo="true" mt="1503905865492" redirect="true"/>
-  <file name="connect.html" crc="123690971" seo="true" mt="1503907869961" redirect="true"/>
-  <file name="30daychallenge.html" crc="3779220668" seo="true" mt="1503950320189" redirect="true"/>
-  <file name="personaltraining.html" crc="3824642310" seo="true" mt="1503950232495" redirect="true"/>
-  <file name="diettraining.html" crc="3807278045" seo="true" mt="1503950521663" redirect="true"/>
-  <file name="exercisetraining.html" crc="183056388" seo="true" mt="1503950026296" redirect="true"/>
-  <file name="weightlosstrainingpdf.html" crc="431394510" seo="true" mt="1503896233616" redirect="true"/>
-  <file name="strengthtrainingpdf.html" crc="488448422" seo="true" mt="1503896255081" redirect="true"/>
-  <file name="glutetrainingpdf.html" crc="4175362867" seo="true" mt="1503896260135" redirect="true"/>
-  <file name="404.html" crc="3800372170" seo="true" mt="1503905865492" redirect="true"/>
-  <site>
-    <asset filename="ldlogowhite_00.png" muse_href="upload:U5974"/>
-    <asset filename="atabarrow.png" muse_href="upload:U10191"/>
-    <asset filename="tabarrow.png" muse_href="upload:U30597"/>
-    <asset filename="menupic.png" muse_href="upload:U30617"/>
-    <asset filename="ddcircle_00.png" muse_href="upload:U30666"/>
-    <asset filename="contactpic.jpg" muse_href="upload:U30668"/>
-    <asset filename="poppng.png" muse_href="upload:U52776"/>
-    <asset filename="exercisetrainingpoppng.png" muse_href="upload:U52778"/>
-    <asset filename="diettrainingpopng.png" muse_href="upload:U52780"/>
-    <asset filename="12-week-strength-training-program-(first-one).pdf" muse_href="upload:U88569"/>
-    <asset filename="glutetraining.pdf" muse_href="upload:U96053"/>
-    <asset filename="strengthtraining.pdf" muse_href="upload:U96055"/>
-    <asset filename="weightlosstraining.pdf" muse_href="upload:U96057"/>
-    <paragraphStyle className="normal_text" uid="U48"/>
-    <paragraphStyle className="tb" uid="U919"/>
-    <paragraphStyle className="connect" uid="U920"/>
-    <paragraphStyle className="ts" uid="U1109"/>
-    <paragraphStyle className="menutitle" uid="U5678"/>
-    <paragraphStyle className="menusub" uid="U5987"/>
-    <paragraphStyle className="norm" uid="U6103"/>
-    <paragraphStyle className="buttons1" uid="U6352"/>
-    <paragraphStyle className="exer2" uid="U7275"/>
-    <paragraphStyle className="exer" uid="U7325"/>
-    <paragraphStyle className="tsp" uid="U50733"/>
-    <paragraphStyle className="tbp" uid="U50734"/>
-    <paragraphStyle className="obi" uid="U51736"/>
-    <paragraphStyle className="pop" uid="U81057"/>
-    <paragraphStyle className="normp" uid="U82535"/>
-    <paragraphStyle className="tabtp" uid="U87137"/>
-    <paragraphStyle className="tabnp" uid="U87138"/>
-    <paragraphStyle className="tabt" uid="U88783"/>
-    <paragraphStyle className="tabtext" uid="U88784"/>
-    <characterStyle className="Slideshow_title" uid="U4002"/>
-    <characterStyle className="Slideshow_body" uid="U4004"/>
-    <characterStyle className="headc" uid="U5724"/>
-    <characterStyle className="Simple-text" uid="U15105"/>
-    <characterStyle className="Menu-Buttons" uid="U28432"/>
-    <characterStyle className="Menu" uid="U29023"/>
-    <characterStyle className="Main_Text" uid="U55547"/>
-    <characterStyle className="Secondary_Text" uid="U55589"/>
-    <textLinkStyle className="minicart" uid="U56755"/>
-    <textLinkStyle className="DW" uid="U56759"/>
-    <nestedListStyle className="nls-None" uid="U51"/>
-  </site>
-  <renditions>
-    <rendition device="desktop">
-      <page name="home" filename="index.html" muse_href="page:U74" master="U65">
-        <breakpoint uid="U4525" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <masterPage name="www.lauriediannafit.com" master="U61" uid="U65">
-        <breakpoint uid="U4532" maxwidth="1160" minwidth="0" squishy="false"/>
-      </masterPage>
-      <masterPage name="None" master="null" uid="U61">
-        <breakpoint uid="U4520" maxwidth="1160" minwidth="0" squishy="true"/>
-      </masterPage>
-      <page name="about" filename="about.html" muse_href="page:U226" master="U65">
-        <breakpoint uid="U4530" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="training" filename="training.html" muse_href="page:U239" master="U65">
-        <breakpoint uid="U4535" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="connect" filename="connect.html" muse_href="page:U252" master="U65">
-        <breakpoint uid="U4523" maxwidth="1160" minwidth="0" squishy="false"/>
-        <anchor name="conme" html_id="conme" muse_href="anchor:U247:U33239" includeInBPs="U4523"/>
-      </page>
-      <page name="30daychallenge" filename="30daychallenge.html" muse_href="page:U6692" master="U65">
-        <breakpoint uid="U6670" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="personaltraining" filename="personaltraining.html" muse_href="page:U6716" master="U65">
-        <breakpoint uid="U6694" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="diettraining" filename="diettraining.html" muse_href="page:U6740" master="U65">
-        <breakpoint uid="U6718" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="exercisetraining" filename="exercisetraining.html" muse_href="page:U6764" master="U65">
-        <breakpoint uid="U6742" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="weightlosstrainingpdf" filename="weightlosstrainingpdf.html" muse_href="page:U96092" master="U61">
-        <breakpoint uid="U96453" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="strengthtrainingpdf" filename="strengthtrainingpdf.html" muse_href="page:U96222" master="U61">
-        <breakpoint uid="U96194" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="glutetrainingpdf" filename="glutetrainingpdf.html" muse_href="page:U96252" master="U61">
-        <breakpoint uid="U96224" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-      <page name="404" filename="404.html" muse_href="page:U97358" master="U65">
-        <breakpoint uid="U97330" maxwidth="1160" minwidth="0" squishy="false"/>
-      </page>
-    </rendition>
-    <rendition device="phone">
-      <page name="home" filename="index.html" muse_href="page:U12469" master="U12412">
-        <breakpoint uid="U74715" maxwidth="550" minwidth="0" squishy="false"/>
-        <anchor name="contact" html_id="contact" muse_href="anchor:U12440:U101658" includeInBPs="U74715"/>
-      </page>
-      <masterPage name="www.lauriediannafit.com" master="U12384" uid="U12412">
-        <breakpoint uid="U73375" maxwidth="550" minwidth="0" squishy="false"/>
-      </masterPage>
-      <masterPage name="None" master="null" uid="U12384">
-        <breakpoint uid="U12385" maxwidth="550" minwidth="0" squishy="true"/>
-      </masterPage>
-      <page name="about" filename="about.html" muse_href="page:U12499" master="U12412">
-        <breakpoint uid="U78623" maxwidth="550" minwidth="0" squishy="false"/>
-      </page>
-      <page name="training" filename="training.html" muse_href="page:U12559" master="U12412">
-        <breakpoint uid="U90818" maxwidth="550" minwidth="0" squishy="false"/>
-      </page>
-      <page name="30daychallenge" filename="30daychallenge.html" muse_href="page:U12589" master="U12412">
-        <breakpoint uid="U77020" maxwidth="550" minwidth="0" squishy="false"/>
-      </page>
-      <page name="diettraining" filename="diettraining.html" muse_href="page:U12619" master="U12412">
-        <breakpoint uid="U74209" maxwidth="550" minwidth="0" squishy="false"/>
-      </page>
-      <page name="exercisetraining" filename="exercisetraining.html" muse_href="page:U12649" master="U12412">
-        <breakpoint uid="U75333" maxwidth="550" minwidth="0" squishy="false"/>
-      </page>
-      <page name="personaltraining" filename="personaltraining.html" muse_href="page:U12769" master="U12412">
-        <breakpoint uid="U87439" maxwidth="550" minwidth="0" squishy="false"/>
-      </page>
-      <page name="weightlosstrainingpdf" filename="weightlosstrainingpdf.html" muse_href="page:U97162" master="U12384">
-        <breakpoint uid="U97134" maxwidth="550" minwidth="0" squishy="true"/>
-      </page>
-      <page name="strengthtrainingpdf" filename="strengthtrainingpdf.html" muse_href="page:U97242" master="U12384">
-        <breakpoint uid="U97214" maxwidth="550" minwidth="0" squishy="true"/>
-      </page>
-      <page name="glutetrainingpdf" filename="glutetrainingpdf.html" muse_href="page:U97272" master="U12384">
-        <breakpoint uid="U97244" maxwidth="550" minwidth="0" squishy="true"/>
-      </page>
-      <page name="404" filename="404.html" muse_href="page:U99267" master="U12412">
-        <breakpoint uid="U99438" maxwidth="550" minwidth="0" squishy="false"/>
-      </page>
-    </rendition>
-  </renditions>
+  <file name="index.html" crc="67024572" seo="true" mt="1507834494151" redirect="true"/>
 </manifest>
