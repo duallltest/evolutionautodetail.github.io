@@ -22,12 +22,6 @@
       <image:loc>http://www.evolutionautodetail.com/images/stars54x11_2x_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.evolutionautodetail.com/images/map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.evolutionautodetail.com/images/map_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.evolutionautodetail.com/images/6flags.png</image:loc>
     </image:image>
     <image:image>
@@ -35,6 +29,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.evolutionautodetail.com/images/clearevodetail-layer%200_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.evolutionautodetail.com/images/clearevodetail.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.evolutionautodetail.com/images/clearevodetail_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.evolutionautodetail.com/images/pic2425x250.jpg</image:loc>
@@ -58,10 +58,10 @@
       <image:loc>http://www.evolutionautodetail.com/images/evodetail-crop-u1465.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.evolutionautodetail.com/images/clearevodetail.png</image:loc>
+      <image:loc>http://www.evolutionautodetail.com/images/map.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.evolutionautodetail.com/images/clearevodetail_2x.png</image:loc>
+      <image:loc>http://www.evolutionautodetail.com/images/map_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,8 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507844673067">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507871622251">
   <folder name="css">
     <file name="site_global.css" crc="3860740251"/>
-    <file name="master_a-master.css" crc="292680170" ref="index"/>
-    <file name="index.css" crc="63330258" ref="index"/>
+    <file name="index.css" crc="3937546970" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -20,7 +19,8 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3923032117" ref="phone>index"/>
-    <file name="hero33-u3184-fr.jpg" crc="3882026028" ref="phone>index"/>
+    <file name="4-u5483-fr.jpg" crc="3994874948" ref="phone>index"/>
+    <file name="4-u5483-fr_2x.jpg" crc="4228480721" ref="phone>index"/>
     <file name="pic2.jpg" crc="490763444" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -30,7 +30,8 @@
     <file name="e896bb629c57bb67551b09cabb0cdb56.jpg" crc="123800158" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero1-u3183-fr.jpg" crc="121240177" ref="phone>index"/>
+    <file name="2-u5481-fr.jpg" crc="507655877" ref="phone>index"/>
+    <file name="2-u5481-fr_2x.jpg" crc="4273634195" ref="phone>index"/>
     <file name="1de011ef087d0cea68e55162264bafa4292x465.jpg" crc="3921842780" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -63,7 +64,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="evodetail-u3125.png" crc="522170316" ref="phone>index"/>
-    <file name="hero3-u3148-fr.jpg" crc="32328318" ref="phone>index"/>
+    <file name="1-u5477-fr.jpg" crc="4079533081" ref="phone>index"/>
+    <file name="1-u5477-fr_2x.jpg" crc="145836371" ref="phone>index"/>
+    <file name="3-u5478-fr.jpg" crc="25106878" ref="phone>index"/>
+    <file name="3-u5478-fr_2x.jpg" crc="527345706" ref="phone>index"/>
     <file name="corner-u3039.png" crc="222288269" ref="phone>index"/>
     <file name="pasted image 250x250-u3042-fr.jpg" crc="4056436398" ref="phone>index:index"/>
     <file name="pasted image 250x250-u3042-fr_2x.jpg" crc="4130837695" ref="phone>index:index"/>
@@ -104,12 +108,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted image 256x228-buttonu3100-fr.png" crc="4235609051" ref="phone>index:index"/>
-    <file name="map.jpg" crc="4170088792" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
+    <file name="map518x309.jpg" crc="152971072" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="map_2x.jpg" crc="14083141" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
+    <file name="map518x309_2x.jpg" crc="139631561" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cbstadium-u3095.png" crc="4148971806" ref="phone>index"/>
@@ -132,7 +134,15 @@
     <file name="clearevodetail133x52_2x.png" crc="121691084" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero33-u726-fr.jpg" crc="4194555525" ref="index"/>
+    <file name="clearevodetail.png" crc="137603000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clearevodetail_2x.png" crc="4066939036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3940018259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="pic2425x250.jpg" crc="106043287" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -148,7 +158,9 @@
     <file name="e896bb629c57bb67551b09cabb0cdb56-crop-u2579.jpg" crc="477857398" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero1-u2752-fr.jpg" crc="291880534" ref="index"/>
+    <file name="2.jpg" crc="294698447" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="evodetail-u1402.png" crc="174898960" ref="index"/>
     <file name="evodetail-u1388.png" crc="3984464132" ref="index"/>
     <file name="evodetail-crop-u1705.png" crc="466838995" seo="true" ref="index">
@@ -161,26 +173,30 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="evodetail-u1360.png" crc="522170316" ref="index"/>
-    <file name="hero3-u2763-fr.jpg" crc="287286052" ref="index"/>
+    <file name="1.jpg" crc="4043542888" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4208533940" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="corner-u2312.png" crc="222288269" ref="index"/>
     <file name="corner-u2340.png" crc="222288269" ref="index"/>
     <file name="corner-u2023.png" crc="222288269" ref="index"/>
     <file name="corner-u2270.png" crc="222288269" ref="index"/>
+    <file name="map.jpg" crc="3883766854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map_2x.jpg" crc="427629166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="cbstadium-u1815.png" crc="4148971806" ref="index"/>
     <file name="cbstadium-u1815_2x.png" crc="3793405604" ref="index"/>
-    <file name="clearevodetail.png" crc="137603000" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clearevodetail_2x.png" crc="4066939036" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4086122588" ref="phone>index"/>
-      <file name="index.css" crc="83258687" ref="phone>index"/>
+      <file name="index.css" crc="4286362746" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="341151332" seo="true" mt="1507844477293" redirect="true"/>
+    <file name="index.html" crc="3800522896" seo="true" mt="1507871576663" redirect="true"/>
   </folder>
-  <file name="index.html" crc="137383206" seo="true" mt="1507844617399" redirect="true"/>
+  <file name="index.html" crc="3983281987" seo="true" mt="1507870734575" redirect="true"/>
 </manifest>
