@@ -1,7 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507871622251">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507959865639">
   <folder name="css">
     <file name="site_global.css" crc="3860740251"/>
-    <file name="index.css" crc="3937546970" ref="index"/>
+    <file name="master_www_evolutionautodetail_com.css" crc="4238324449" ref="index"/>
+    <file name="index.css" crc="380470641" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -19,8 +20,8 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3923032117" ref="phone>index"/>
-    <file name="4-u5483-fr.jpg" crc="3994874948" ref="phone>index"/>
-    <file name="4-u5483-fr_2x.jpg" crc="4228480721" ref="phone>index"/>
+    <file name="banner-u5483-fr.jpg" crc="3770166997" ref="phone>index"/>
+    <file name="banner-u5483-fr_2x.jpg" crc="4166321355" ref="phone>index"/>
     <file name="pic2.jpg" crc="490763444" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -140,22 +141,14 @@
     <file name="clearevodetail_2x.png" crc="4066939036" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4.jpg" crc="3940018259" ref="index">
+    <file name="banner.jpg" crc="392028558" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic2425x250.jpg" crc="106043287" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic2_2x.jpg" crc="16289442" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic1424x250.jpg" crc="3889478827" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic1424x250_2x.jpg" crc="3992569407" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="e896bb629c57bb67551b09cabb0cdb56-crop-u2579.jpg" crc="477857398" seo="true" ref="index">
+    <file name="black-hexagon-red-white-gradient-glow-2560x1080-c4-f5f5f5-ffffff-dc0f3d-000000-l2-16-204-a-5-f-6.svg" crc="3779610176" ref="index"/>
+    <file name="black-hexagon-red-white-gradient-glow-2560x1080-c4-f5f5f5-ffffff-dc0f3d-000000-l2-16-204-a-5-f-6_poster_u5661.png" crc="493705861" ref="index"/>
+    <file name="pic2-u5650-fr.jpg" crc="3934522645" ref="index"/>
+    <file name="pic1-u5642-fr.jpg" crc="514618428" ref="index"/>
+    <file name="e896bb629c57bb67551b09cabb0cdb56-crop-u5682.jpg" crc="3910059518" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.jpg" crc="294698447" ref="index">
@@ -194,9 +187,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4286362746" ref="phone>index"/>
+      <file name="master_www_evolutionautodetail_com.css" crc="3949304216" ref="phone>index"/>
+      <file name="index.css" crc="3792278429" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3800522896" seo="true" mt="1507871576663" redirect="true"/>
+    <file name="index.html" crc="3978211477" seo="true" mt="1507959088889" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3983281987" seo="true" mt="1507870734575" redirect="true"/>
+  <file name="index.html" crc="435073579" seo="true" mt="1507959757101" redirect="true"/>
 </manifest>
