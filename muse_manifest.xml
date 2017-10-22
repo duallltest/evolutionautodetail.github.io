@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1507960403661">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.evolutionautodetail.com" resolutions="1x,2x" timestamp="1508642664014">
   <folder name="css">
-    <file name="site_global.css" crc="3860740251"/>
-    <file name="master_www_evolutionautodetail_com.css" crc="4238324449" ref="index"/>
-    <file name="index.css" crc="3799154876" ref="index"/>
+    <file name="site_global.css" crc="333192127"/>
+    <file name="master_www_evolutionautodetail_com.css" crc="338417051" ref="index"/>
+    <file name="index.css" crc="91738787" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -19,7 +19,7 @@
     <file name="require.js" crc="3861931657" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3923032117" ref="phone>index"/>
+    <file name="favicon.ico" crc="3923032117" ref="phone>index:index"/>
     <file name="banner-u5483-fr.jpg" crc="3770166997" ref="phone>index"/>
     <file name="banner-u5483-fr_2x.jpg" crc="4166321355" ref="phone>index"/>
     <file name="pic2.jpg" crc="490763444" seo="true" ref="phone>index">
@@ -33,22 +33,18 @@
     </file>
     <file name="2-u5481-fr.jpg" crc="507655877" ref="phone>index"/>
     <file name="2-u5481-fr_2x.jpg" crc="4273634195" ref="phone>index"/>
-    <file name="1de011ef087d0cea68e55162264bafa4292x465.jpg" crc="3921842780" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="1de011ef087d0cea68e55162264bafa4292x465.jpg" crc="3921842780" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="evodetail-rectangle 1c290x176.png" crc="171009587" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="evodetail-rectangle 1c290x176.png" crc="171009587" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="evodetail-rectangle 1c_2x.png" crc="4202284833" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="evodetail-u3118.png" crc="174898960" ref="phone>index"/>
     <file name="evodetail-u3114.png" crc="3984464132" ref="phone>index"/>
     <file name="426b307c6d077161a9e909b45d9d6e5e.jpg" crc="1909895" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="evodetail-crop-u3143.png" crc="466838995" seo="true" ref="phone>index">
@@ -57,7 +53,6 @@
     <file name="evodetail-u3145.png" crc="4060962585" ref="phone>index"/>
     <file name="evodetail-u3141.png" crc="468235497" ref="phone>index"/>
     <file name="dcb9a6fc3e787213df14c7cb70abaed9.jpg" crc="3908770176" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="evodetail-u3129.png" crc="138789575" ref="phone>index"/>
@@ -70,13 +65,9 @@
     <file name="3-u5478-fr.jpg" crc="25106878" ref="phone>index"/>
     <file name="3-u5478-fr_2x.jpg" crc="527345706" ref="phone>index"/>
     <file name="corner-u3039.png" crc="222288269" ref="phone>index"/>
-    <file name="pasted image 250x250-u3042-fr.jpg" crc="4056436398" ref="phone>index:index"/>
-    <file name="pasted image 250x250-u3042-fr_2x.jpg" crc="4130837695" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3042-fr.jpg" crc="4056436398" ref="phone>index"/>
+    <file name="pasted image 250x250-u3042-fr_2x.jpg" crc="4130837695" ref="phone>index"/>
     <file name="stars54x11_2x.png" crc="292500548" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -87,28 +78,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="corner-u3028.png" crc="222288269" ref="phone>index"/>
-    <file name="pasted image 250x250-u3026-fr.jpg" crc="525152079" ref="phone>index:index"/>
-    <file name="pasted image 250x250-u3026-fr_2x.jpg" crc="18304714" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3026-fr.jpg" crc="525152079" ref="phone>index"/>
+    <file name="pasted image 250x250-u3026-fr_2x.jpg" crc="18304714" ref="phone>index"/>
     <file name="corner-u3018.png" crc="222288269" ref="phone>index"/>
-    <file name="pasted image 250x250-u3017-fr.jpg" crc="136069432" ref="phone>index:index"/>
-    <file name="pasted image 250x250-u3017-fr_2x.jpg" crc="4119178206" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3017-fr.jpg" crc="136069432" ref="phone>index"/>
+    <file name="pasted image 250x250-u3017-fr_2x.jpg" crc="4119178206" ref="phone>index"/>
     <file name="corner-u3006.png" crc="222288269" ref="phone>index"/>
-    <file name="pasted image 250x250-u3003-fr.jpg" crc="331961783" ref="phone>index:index"/>
-    <file name="pasted image 250x250-u3003-fr_2x.jpg" crc="4243821364" ref="phone>index:index"/>
+    <file name="pasted image 250x250-u3003-fr.jpg" crc="331961783" ref="phone>index"/>
+    <file name="pasted image 250x250-u3003-fr_2x.jpg" crc="4243821364" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
-    <file name="yelpsmash-buttonu3102-fr.png" crc="4275637655" ref="phone>index:index"/>
-    <file name="yelpsmash-buttonu3102-fr_2x.png" crc="4166443059" ref="phone>index:index"/>
+    <file name="yelpsmash-buttonu3102-fr.png" crc="4275637655" ref="phone>index"/>
+    <file name="yelpsmash-buttonu3102-fr_2x.png" crc="4166443059" ref="phone>index"/>
     <file name="social-inside-facebook-icon.png" crc="234225298" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 256x228-buttonu3100-fr.png" crc="4235609051" ref="phone>index:index"/>
+    <file name="pasted image 256x228-buttonu3100-fr.png" crc="4235609051" ref="phone>index"/>
     <file name="map518x309.jpg" crc="152971072" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -119,14 +105,11 @@
     <file name="cbstadium-u3095_2x.png" crc="3793405604" ref="phone>index"/>
     <file name="6flags.png" crc="4085885978" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="clearevodetail-layer 0.png" crc="512434343" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="clearevodetail-layer 0_2x.png" crc="3799101461" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="clearevodetail133x52.png" crc="4209632651" seo="true" ref="phone>index">
@@ -184,13 +167,24 @@
     </file>
     <file name="cbstadium-u1815.png" crc="4148971806" ref="index"/>
     <file name="cbstadium-u1815_2x.png" crc="3793405604" ref="index"/>
+    <file name="pasted image 250x250-u2308-fr.jpg" crc="525152079" ref="index"/>
+    <file name="pasted image 250x250-u2308-fr_2x.jpg" crc="18304714" ref="index"/>
+    <file name="pasted image 250x250-u2336-fr.jpg" crc="4056436398" ref="index"/>
+    <file name="pasted image 250x250-u2336-fr_2x.jpg" crc="4130837695" ref="index"/>
+    <file name="pasted image 250x250-u2028-fr.jpg" crc="136069432" ref="index"/>
+    <file name="pasted image 250x250-u2028-fr_2x.jpg" crc="4119178206" ref="index"/>
+    <file name="pasted image 250x250-u2266-fr.jpg" crc="331961783" ref="index"/>
+    <file name="pasted image 250x250-u2266-fr_2x.jpg" crc="4243821364" ref="index"/>
+    <file name="pasted image 256x228-buttonu2464-fr.png" crc="4235609051" ref="index"/>
+    <file name="yelpsmash-buttonu2477-fr.png" crc="4275637655" ref="index"/>
+    <file name="yelpsmash-buttonu2477-fr_2x.png" crc="4166443059" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_www_evolutionautodetail_com.css" crc="3949304216" ref="phone>index"/>
-      <file name="index.css" crc="3792278429" ref="phone>index"/>
+      <file name="index.css" crc="379768377" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3760469281" seo="true" mt="1507959088889" redirect="true"/>
+    <file name="index.html" crc="241530792" seo="true" mt="1507959088889" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3832505474" seo="true" mt="1507960277854" redirect="true"/>
+  <file name="index.html" crc="151288833" seo="true" mt="1508642629024" redirect="true"/>
 </manifest>

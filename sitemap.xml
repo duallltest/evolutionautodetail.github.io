@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.evolutionautodetail.com/index.html</loc>
-    <lastmod>2017-10-14</lastmod>
+    <lastmod>2017-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.evolutionautodetail.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://www.evolutionautodetail.com/images/1de011ef087d0cea68e55162264bafa4292x465.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.evolutionautodetail.com/images/evodetail-rectangle%201c290x176.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.evolutionautodetail.com/images/evodetail-rectangle%201c_2x.png</image:loc>
     </image:image>
